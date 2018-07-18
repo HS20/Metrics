@@ -1,0 +1,95 @@
+1. DocId : 3112 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+2. DocId : 134762 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+3. DocId : 147594 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+4. DocId : 174105 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+5. DocId : 196917 | Concept_CD : SYN|ANA:CY9AA | NAME_CHAR : Clairance AATfec
+6. DocId : 227340 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+7. DocId : 322308 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+8. DocId : 360639 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+9. DocId : 31373 | Concept_CD : SYN|ANA:CY621 | NAME_CHAR : CLAIRANCE CREAT COR
+10. DocId : 36090 | Concept_CD : SYN|ANA:CY695 | NAME_CHAR : CLAIRANCE CREAT  t1
+11. DocId : 38695 | Concept_CD : SYN|ANA:CY697 | NAME_CHAR : CLAIRANCE CREAT  t2
+12. DocId : 39265 | Concept_CD : SYN|ANA:CY610 | NAME_CHAR : CLAIRANCE DU PHOS
+13. DocId : 56743 | Concept_CD : DXC|QUESTION|AUTRE:67940 | NAME_CHAR : 114 - Clairance créatinine 
+14. DocId : 73440 | Concept_CD : SYN|ANA:CY695 | NAME_CHAR : CLAIRANCE CREAT  t1
+15. DocId : 83657 | Concept_CD : SYN|ANA:CY691 | NAME_CHAR : CLAIRANCE CREAT COR
+16. DocId : 88310 | Concept_CD : SYN|ANA:C9AAT | NAME_CHAR : Clairance A1AT fec
+17. DocId : 95419 | Concept_CD : SYN|ANA:CY697 | NAME_CHAR : CLAIRANCE CREAT  t2
+18. DocId : 109786 | Concept_CD : SYN|ANA:CY692 | NAME_CHAR : CLAIRANCE du PHOP
+19. DocId : 113899 | Concept_CD : SYN|ANA:CY762 | NAME_CHAR : CLAIRANCE CREAT  t7
+20. DocId : 166045 | Concept_CD : DXC|QUESTION|AUTRE:84498 | NAME_CHAR : 014 - Clairance (ml/mn)
+21. DocId : 166706 | Concept_CD : SYN|ANA:CY760 | NAME_CHAR : CLAIRANCE CREAT  t5
+22. DocId : 173011 | Concept_CD : SYN|ANA:CY698 | NAME_CHAR : CLAIRANCE CREAT  t3
+23. DocId : 180153 | Concept_CD : PMSI:ACTE-CCAM|KGQL004 | NAME_CHAR : mesure clairance isotop. plasmatique
+24. DocId : 181469 | Concept_CD : SYN|ANA:CY687 | NAME_CHAR : CLAIRANCE CREAT  sa
+25. DocId : 194090 | Concept_CD : SYN|ANA:C9AA2 | NAME_CHAR : Clairance A1AT Sg
+26. DocId : 230129 | Concept_CD : SYN|ANA:CY640 | NAME_CHAR : CLAIRANCE du PHOP
+27. DocId : 244034 | Concept_CD : SYN|ANA:CY601 | NAME_CHAR : CLAIRANCE Ac URIQUE
+28. DocId : 246988 | Concept_CD : SYN|ANA:CY698 | NAME_CHAR : CLAIRANCE CREAT  t3
+29. DocId : 266571 | Concept_CD : SYN|ANA:CY699 | NAME_CHAR : CLAIRANCE CREAT  t4
+30. DocId : 271699 | Concept_CD : SYN|ANA:CY610 | NAME_CHAR : CLAIRANCE DU PHOS
+31. DocId : 273223 | Concept_CD : SYN|ANA:CY697 | NAME_CHAR : CLAIRANCE CREAT  t2
+32. DocId : 280739 | Concept_CD : SYN|ANA:CY695 | NAME_CHAR : CLAIRANCE CREAT  t1
+33. DocId : 307210 | Concept_CD : SYN|ANA:CY610 | NAME_CHAR : CLAIRANCE DU PHOS
+34. DocId : 310991 | Concept_CD : DXC|QUESTION|AUTRE:83728 | NAME_CHAR : 005 - Clairance creat
+35. DocId : 316777 | Concept_CD : SYN|ANA:CY761 | NAME_CHAR : CLAIRANCE CREAT  t6
+36. DocId : 319627 | Concept_CD : DXC|QUESTION|AUTRE:116664 | NAME_CHAR : 060 - Clairance (MDRD)
+37. DocId : 324123 | Concept_CD : SYN|ANA:CY639 | NAME_CHAR : CLAIRANCE Ac URIQUE
+38. DocId : 337896 | Concept_CD : SYN|ANA:CY687 | NAME_CHAR : CLAIRANCE CREAT  sa
+39. DocId : 338417 | Concept_CD : SYN|ANA:CY610 | NAME_CHAR : CLAIRANCE DU PHOS
+40. DocId : 342659 | Concept_CD : DXC|QUESTION|AUTRE:60504 | NAME_CHAR : 005 - Clairance début
+41. DocId : 343832 | Concept_CD : DXC|QUESTION|AUTRE:4975 | NAME_CHAR : 162 - Clairance créatinine
+42. DocId : 345035 | Concept_CD : DXC|QUESTION|AUTRE:73204 | NAME_CHAR : 169 - Clairance créatinine
+43. DocId : 28506 | Concept_CD : DXC|QUESTION|AUTRE:11474 | NAME_CHAR : 058 - Clairance créatinine (ml/mn)
+44. DocId : 145384 | Concept_CD : DXC|QUESTION|AUTRE:107867 | NAME_CHAR : 045 - Clairance Créatinine (mL/min)
+45. DocId : 185103 | Concept_CD : DXC|QUESTION|AUTRE:144817 | NAME_CHAR : 013 - Clairance créatinine (Cockroft)
+46. DocId : 219412 | Concept_CD : PMSI:ACTE-CCAM|KGQL001 | NAME_CHAR : mesure clairance isotop. plasmatique +urin.
+47. DocId : 268332 | Concept_CD : DXC|QUESTION|AUTRE:52145 | NAME_CHAR : 030 - Clairance créatinine (ml/min)
+48. DocId : 278442 | Concept_CD : DXC|QUESTION|AUTRE:158634 | NAME_CHAR : 014 - Clairance Créatinine MDRD
+49. DocId : 312407 | Concept_CD : DXC|QUESTION|AUTRE:60538 | NAME_CHAR : 017 - Clairance de fin
+50. DocId : 839 | Concept_CD : DXC|QUESTION|AUTRE:4978 | NAME_CHAR : 168 - Clairance à la sortie
+51. DocId : 23394 | Concept_CD : DXC|QUESTION|AUTRE:135101 | NAME_CHAR : 045 - Clairance de la créatinine
+52. DocId : 33987 | Concept_CD : DXC|QUESTION|BLOB:147032 | NAME_CHAR : 027 - Clairance de la créatinine (mL/min)
+53. DocId : 51903 | Concept_CD : DXC|QUESTION|AUTRE:147059 | NAME_CHAR : 018 - Clairance créatinine CKD-Epi (mL/min/1,73m²)
+54. DocId : 61422 | Concept_CD : DXC|QUESTION|AUTRE:37192 | NAME_CHAR : 010 - Clairance créatinine MDRD (ml/min)
+55. DocId : 66216 | Concept_CD : DXC|QUESTION|BLOB:175187 | NAME_CHAR : 044 - Clairance de la créatinine
+56. DocId : 71542 | Concept_CD : DXC|QUESTION|AUTRE:87348 | NAME_CHAR : 019 - Clairance de la créatinine (ml/min)
+57. DocId : 72952 | Concept_CD : DXC|QUESTION|BLOB:158088 | NAME_CHAR : 027 - Clairance de la créatinine (mL/min)
+58. DocId : 82138 | Concept_CD : DXC|QUESTION|AUTRE:17840 | NAME_CHAR : 011 - Clairance de la créatinine (ml/min)
+59. DocId : 82983 | Concept_CD : DXC|QUESTION|BLOB:102690 | NAME_CHAR : 013 - Synthèse de la CLAIRANCE CREATININE
+60. DocId : 93169 | Concept_CD : DXC|QUESTION|BLOB:145922 | NAME_CHAR : 015 - Synthèse de la CLAIRANCE CREATININE
+61. DocId : 117671 | Concept_CD : DXC|QUESTION|AUTRE:15774 | NAME_CHAR : 098 - Clairance de créatinine (ml/min)
+62. DocId : 138526 | Concept_CD : DXC|QUESTION|AUTRE:110503 | NAME_CHAR : 009 - Clairance créatinine Cockroft (ml/min)
+63. DocId : 142696 | Concept_CD : DXC|QUESTION|BLOB:110507 | NAME_CHAR : 013 - Synthèse de la CLAIRANCE CREATININE
+64. DocId : 146578 | Concept_CD : DXC|QUESTION|AUTRE:147038 | NAME_CHAR : 017 - Sexe K Clairance CKD-Epi
+65. DocId : 160031 | Concept_CD : DXC|QUESTION|AUTRE:145918 | NAME_CHAR : 011 - Clairance créatinine Cockcroft (ml/min)
+66. DocId : 167031 | Concept_CD : DXC|QUESTION|AUTRE:35844 | NAME_CHAR : 009 - Clairance créatinine Cockroft (ml/min)
+67. DocId : 176391 | Concept_CD : DXC|QUESTION|AUTRE:126652 | NAME_CHAR : 107 - Clairance créatinine (ml/min) COCKROFT
+68. DocId : 181944 | Concept_CD : DXC|QUESTION|AUTRE:47856 | NAME_CHAR : 015 - Clairance de la créatinine
+69. DocId : 214647 | Concept_CD : DXC|QUESTION|AUTRE:73210 | NAME_CHAR : 175 - Clairance à la sortie
+70. DocId : 222303 | Concept_CD : DXC|QUESTION|BLOB:148787 | NAME_CHAR : 029 - Clairance de la créatinine
+71. DocId : 223318 | Concept_CD : DXC|QUESTION|AUTRE:110504 | NAME_CHAR : 010 - Clairance créatinine MDRD (ml/min)
+72. DocId : 232351 | Concept_CD : DXC|QUESTION|BLOB:184866 | NAME_CHAR : 013 - Clairance de la créatinine (mL/min)
+73. DocId : 252759 | Concept_CD : DXC|QUESTION|AUTRE:165295 | NAME_CHAR : 143 - Clairance Cockcroft et Gault
+74. DocId : 294734 | Concept_CD : DXC|QUESTION|AUTRE:76903 | NAME_CHAR : 010 - Clairance de la créatinine
+75. DocId : 312474 | Concept_CD : DXC|QUESTION|AUTRE:145919 | NAME_CHAR : 012 - Clairance créatinine MDRD (ml/min)
+76. DocId : 315171 | Concept_CD : PMSI:ACTE-CCAM|JAQL004 | NAME_CHAR : scinti rein +mesure clairance isotop. plasmatique
+77. DocId : 347026 | Concept_CD : DXC|QUESTION|BLOB:82611 | NAME_CHAR : 028 - Clairance de la créatinine
+78. DocId : 358234 | Concept_CD : DXC|QUESTION|AUTRE:183491 | NAME_CHAR : 116 - Clairance créatinine (ml/min) COCKROFT
+79. DocId : 366790 | Concept_CD : DXC|QUESTION|AUTRE:84133 | NAME_CHAR : 021 - Clairance de la créatinine (ml/mn)
+80. DocId : 152772 | Concept_CD : DXC|QUESTION|AUTRE:6976 | NAME_CHAR : 007 - Clairance Homme avec créatinine en micromoles
+81. DocId : 221108 | Concept_CD : DXC|QUESTION|AUTRE:131609 | NAME_CHAR : 023 - Clairance le jour de l'évaluation selon MDRD (ml/min/1.73m)
+82. DocId : 240040 | Concept_CD : DXC|QUESTION|BLOB:169964 | NAME_CHAR : 127 - Clairance estimée selon cockcroft et gault
+83. DocId : 294913 | Concept_CD : DXC|QUESTION|AUTRE:148064 | NAME_CHAR : 002 - Clairance de la créatinine (mL/min) :
+84. DocId : 348688 | Concept_CD : DXC|QUESTION|AUTRE:84749 | NAME_CHAR : 001 - Clairance de la créatinine : Légende
+85. DocId : 18219 | Concept_CD : DXC|QUESTION|AUTRE:7918 | NAME_CHAR : 010 - Clairance Homme calculée à partir de la créatinine en mg/l
+86. DocId : 59993 | Concept_CD : DXC|QUESTION|AUTRE:7915 | NAME_CHAR : 007 - Clairance Homme à partir de la créatinine en micromoles
+87. DocId : 76091 | Concept_CD : DXC|QUESTION|AUTRE:47846 | NAME_CHAR : 005 - Coefficient pour clairance de la créatinine en fonction du sexe
+88. DocId : 154660 | Concept_CD : DXC|QUESTION|AUTRE:75914 | NAME_CHAR : 237 - Un diabète avec clairance de la créatinine <60ml/min ?
+89. DocId : 155286 | Concept_CD : DXC|QUESTION|AUTRE:7916 | NAME_CHAR : 008 - Clairance Femme à partir de la créatinine en micromoles/l
+90. DocId : 159405 | Concept_CD : DXC|QUESTION|AUTRE:6978 | NAME_CHAR : 010 - Clairance Homme calculée à partir de la créatinine en mg/l
+91. DocId : 164874 | Concept_CD : DXC|QUESTION|AUTRE:6979 | NAME_CHAR : 011 - Clairance Femme calculée à partir de la créatinine en mg/l
+92. DocId : 299768 | Concept_CD : DXC|QUESTION|AUTRE:158021 | NAME_CHAR : 043 - Clairance estimée par la formule de Cockcroft et Gault 
+93. DocId : 323343 | Concept_CD : DXC|QUESTION|AUTRE:6977 | NAME_CHAR : 008 - Clairance femme à partir de la créatinine en micromoles/l
+94. DocId : 332122 | Concept_CD : DXC|QUESTION|AUTRE:140219 | NAME_CHAR : 084 - Clairance estimée par la formule de Cockcroft et Gault 
+95. DocId : 351179 | Concept_CD : DXC|QUESTION|AUTRE:7919 | NAME_CHAR : 011 - Clairance Femme calculée à partir de la créatinine en mg/l

@@ -1,0 +1,68 @@
+1. DocId : 314613 | Concept_CD : DXC|REPONSE:25026-25026|19131 | NAME_CHAR : Anticoagulant
+2. DocId : 31450 | Concept_CD : DXC|REPONSE:80240-80240|37783 | NAME_CHAR : Anticoagulant circulant
+3. DocId : 346875 | Concept_CD : DXC|REPONSE:56248-56248|28667 | NAME_CHAR : Anticoagulant circulant
+4. DocId : 355598 | Concept_CD : DXC|REPONSE:80237-80237|37783 | NAME_CHAR : Anticoagulant circulant
+5. DocId : 22702 | Concept_CD : DXC|QUESTION|AUTRE:154556 | NAME_CHAR : 050 - Anticoagulant
+6. DocId : 32378 | Concept_CD : DXC|QUESTION|AUTRE:58482 | NAME_CHAR : 040 - Anticoagulant :
+7. DocId : 41265 | Concept_CD : DXC|QUESTION|AUTRE:186006 | NAME_CHAR : 015 - Traitement anticoagulant
+8. DocId : 46307 | Concept_CD : DXC|REPONSE:171614-171614|611060 | NAME_CHAR : Combinaison anticoagulant ET contention
+9. DocId : 50363 | Concept_CD : DXC|QUESTION|AUTRE:51883 | NAME_CHAR : 006 - Anticoagulant oral/AVK
+10. DocId : 73845 | Concept_CD : DXC|QUESTION|AUTRE:126694 | NAME_CHAR : 157 - Anticoagulant curatif
+11. DocId : 80809 | Concept_CD : DXC|QUESTION|AUTRE:181343 | NAME_CHAR : 028 - Anticoagulant autorisé 
+12. DocId : 145728 | Concept_CD : DXC|REPONSE:59091-59091|29615 | NAME_CHAR : HD sans anticoagulant
+13. DocId : 157633 | Concept_CD : DXC|QUESTION|AUTRE:180121 | NAME_CHAR : 028 - Anticoagulant autorisé 
+14. DocId : 186574 | Concept_CD : DXC|QUESTION|AUTRE:170571 | NAME_CHAR : 020 - Anticoagulant
+15. DocId : 190288 | Concept_CD : DXC|QUESTION|AUTRE:100055 | NAME_CHAR : 049 - Anticoagulant
+16. DocId : 212685 | Concept_CD : DXC|QUESTION|AUTRE:84190 | NAME_CHAR : 034 - Anticoagulant (s)
+17. DocId : 264706 | Concept_CD : DXC|QUESTION|AUTRE:68260 | NAME_CHAR : 182 - Anticoagulant oral/AVK
+18. DocId : 268709 | Concept_CD : DXC|QUESTION|AUTRE:179998 | NAME_CHAR : 009 - Anticoagulant autorisé
+19. DocId : 282403 | Concept_CD : DXC|QUESTION|BLOB:68842 | NAME_CHAR : 225 - Anticoagulant commentaire
+20. DocId : 287976 | Concept_CD : DXC|QUESTION|AUTRE:181324 | NAME_CHAR : 009 - Anticoagulant autorisé
+21. DocId : 306549 | Concept_CD : DXC|QUESTION|AUTRE:169699 | NAME_CHAR : 020 - Anticoagulant
+22. DocId : 331064 | Concept_CD : DXC|QUESTION|AUTRE:18917 | NAME_CHAR : 013 - Anticoagulant
+23. DocId : 338564 | Concept_CD : DXC|QUESTION|AUTRE:183541 | NAME_CHAR : 166 - Anticoagulant curatif
+24. DocId : 356840 | Concept_CD : DXC|QUESTION|AUTRE:177338 | NAME_CHAR : 019 - Traitement anticoagulant
+25. DocId : 367112 | Concept_CD : DXC|QUESTION|AUTRE:176916 | NAME_CHAR : 004 - Anticoagulant
+26. DocId : 65331 | Concept_CD : DXC|QUESTION|AUTRE:87736 | NAME_CHAR : 041 - Anticoagulant XTS (photophérèse)
+27. DocId : 145208 | Concept_CD : DXC|QUESTION|AUTRE:57841 | NAME_CHAR : 044 - Anticoagulant XTS (photophérèse)
+28. DocId : 166720 | Concept_CD : DXC|QUESTION|AUTRE:87389 | NAME_CHAR : 060 - Reprise traitement anticoagulant
+29. DocId : 195987 | Concept_CD : DXC|QUESTION|AUTRE:27932 | NAME_CHAR : 100 - Anticoagulant XTS (photophérèse)
+30. DocId : 201054 | Concept_CD : DXC|REPONSE:69553-69553|33847 | NAME_CHAR : HNF ou HBPM autre anticoagulant
+31. DocId : 321007 | Concept_CD : DXC|REPONSE:82668-82668|38631 | NAME_CHAR : Saignement excessif du aux anticoagulant
+32. DocId : 233269 | Concept_CD : DXC|QUESTION|AUTRE:76753 | NAME_CHAR : 040 - Anticoagulant de type lupique
+33. DocId : 371056 | Concept_CD : DXC|QUESTION|AUTRE:134984 | NAME_CHAR : 027 - Anticoagulant oral ou SC?
+34. DocId : 147483 | Concept_CD : DXC|QUESTION|AUTRE:87394 | NAME_CHAR : 065 - Délai symptômes reprise d'un traitement anticoagulant
+1. DocId : 58808 | Concept_CD : DXC|REPONSE:25026-25026|19131 | NAME_CHAR : Anticoagulant
+2. DocId : 6405 | Concept_CD : DXC|REPONSE:80237-80237|37783 | NAME_CHAR : Anticoagulant circulant
+3. DocId : 97519 | Concept_CD : DXC|REPONSE:80240-80240|37783 | NAME_CHAR : Anticoagulant circulant
+4. DocId : 216214 | Concept_CD : DXC|REPONSE:56248-56248|28667 | NAME_CHAR : Anticoagulant circulant
+5. DocId : 33187 | Concept_CD : DXC|REPONSE:171614-171614|611060 | NAME_CHAR : Combinaison anticoagulant ET contention
+6. DocId : 64830 | Concept_CD : DXC|QUESTION|AUTRE:179998 | NAME_CHAR : 009 - Anticoagulant autorisé
+7. DocId : 68836 | Concept_CD : DXC|QUESTION|AUTRE:176916 | NAME_CHAR : 004 - Anticoagulant
+8. DocId : 75235 | Concept_CD : DXC|QUESTION|AUTRE:154556 | NAME_CHAR : 050 - Anticoagulant
+9. DocId : 85157 | Concept_CD : DXC|QUESTION|AUTRE:68260 | NAME_CHAR : 182 - Anticoagulant oral/AVK
+10. DocId : 111127 | Concept_CD : DXC|QUESTION|AUTRE:181324 | NAME_CHAR : 009 - Anticoagulant autorisé
+11. DocId : 112407 | Concept_CD : DXC|REPONSE:59091-59091|29615 | NAME_CHAR : HD sans anticoagulant
+12. DocId : 133092 | Concept_CD : DXC|QUESTION|BLOB:68842 | NAME_CHAR : 225 - Anticoagulant commentaire
+13. DocId : 178659 | Concept_CD : DXC|QUESTION|AUTRE:186006 | NAME_CHAR : 015 - Traitement anticoagulant
+14. DocId : 180000 | Concept_CD : DXC|QUESTION|AUTRE:100055 | NAME_CHAR : 049 - Anticoagulant
+15. DocId : 189194 | Concept_CD : DXC|QUESTION|AUTRE:126694 | NAME_CHAR : 157 - Anticoagulant curatif
+16. DocId : 224605 | Concept_CD : DXC|QUESTION|AUTRE:177338 | NAME_CHAR : 019 - Traitement anticoagulant
+17. DocId : 227045 | Concept_CD : DXC|QUESTION|AUTRE:181343 | NAME_CHAR : 028 - Anticoagulant autorisé 
+18. DocId : 243815 | Concept_CD : DXC|QUESTION|AUTRE:180121 | NAME_CHAR : 028 - Anticoagulant autorisé 
+19. DocId : 247450 | Concept_CD : DXC|QUESTION|AUTRE:58482 | NAME_CHAR : 040 - Anticoagulant :
+20. DocId : 262347 | Concept_CD : DXC|QUESTION|AUTRE:18917 | NAME_CHAR : 013 - Anticoagulant
+21. DocId : 274451 | Concept_CD : DXC|QUESTION|AUTRE:170571 | NAME_CHAR : 020 - Anticoagulant
+22. DocId : 340127 | Concept_CD : DXC|QUESTION|AUTRE:51883 | NAME_CHAR : 006 - Anticoagulant oral/AVK
+23. DocId : 346015 | Concept_CD : DXC|QUESTION|AUTRE:183541 | NAME_CHAR : 166 - Anticoagulant curatif
+24. DocId : 356614 | Concept_CD : DXC|QUESTION|AUTRE:169699 | NAME_CHAR : 020 - Anticoagulant
+25. DocId : 359955 | Concept_CD : DXC|QUESTION|AUTRE:84190 | NAME_CHAR : 034 - Anticoagulant (s)
+26. DocId : 44680 | Concept_CD : DXC|QUESTION|AUTRE:57841 | NAME_CHAR : 044 - Anticoagulant XTS (photophérèse)
+27. DocId : 45380 | Concept_CD : DXC|QUESTION|AUTRE:76753 | NAME_CHAR : 040 - Anticoagulant de type lupique
+28. DocId : 100319 | Concept_CD : DXC|REPONSE:69553-69553|33847 | NAME_CHAR : HNF ou HBPM autre anticoagulant
+29. DocId : 118235 | Concept_CD : DXC|QUESTION|AUTRE:87389 | NAME_CHAR : 060 - Reprise traitement anticoagulant
+30. DocId : 337492 | Concept_CD : DXC|QUESTION|AUTRE:87736 | NAME_CHAR : 041 - Anticoagulant XTS (photophérèse)
+31. DocId : 356297 | Concept_CD : DXC|QUESTION|AUTRE:27932 | NAME_CHAR : 100 - Anticoagulant XTS (photophérèse)
+32. DocId : 370127 | Concept_CD : DXC|REPONSE:82668-82668|38631 | NAME_CHAR : Saignement excessif du aux anticoagulant
+33. DocId : 271717 | Concept_CD : DXC|QUESTION|AUTRE:134984 | NAME_CHAR : 027 - Anticoagulant oral ou SC?
+34. DocId : 85305 | Concept_CD : DXC|QUESTION|AUTRE:87394 | NAME_CHAR : 065 - Délai symptômes reprise d'un traitement anticoagulant

@@ -1,0 +1,57 @@
+1. DocId : 31373 | Concept_CD : SYN|ANA:CY621 | NAME_CHAR : CLAIRANCE CREAT COR
+2. DocId : 33848 | Concept_CD : SYN|ANA:CY702 | NAME_CHAR : Oxal / Creat
+3. DocId : 36090 | Concept_CD : SYN|ANA:CY695 | NAME_CHAR : CLAIRANCE CREAT  t1
+4. DocId : 38695 | Concept_CD : SYN|ANA:CY697 | NAME_CHAR : CLAIRANCE CREAT  t2
+5. DocId : 49445 | Concept_CD : DXC|REPONSE:17042-17042|2555 | NAME_CHAR : Créat > 200
+6. DocId : 64904 | Concept_CD : SYN|ANA:CY314 | NAME_CHAR : CUA1M / CREAT UR
+7. DocId : 66308 | Concept_CD : DXC|REPONSE:46211-46211|2556 | NAME_CHAR : Créat < 200
+8. DocId : 70882 | Concept_CD : SYN|ANA:CY187 | NAME_CHAR : TRANF U/ CREAT U
+9. DocId : 73440 | Concept_CD : SYN|ANA:CY695 | NAME_CHAR : CLAIRANCE CREAT  t1
+10. DocId : 83657 | Concept_CD : SYN|ANA:CY691 | NAME_CHAR : CLAIRANCE CREAT COR
+11. DocId : 86430 | Concept_CD : SYN|ANA:CY262 | NAME_CHAR : Elim Creat  prlv 4
+12. DocId : 95419 | Concept_CD : SYN|ANA:CY697 | NAME_CHAR : CLAIRANCE CREAT  t2
+13. DocId : 113899 | Concept_CD : SYN|ANA:CY762 | NAME_CHAR : CLAIRANCE CREAT  t7
+14. DocId : 140938 | Concept_CD : SYN|ANA:CY314 | NAME_CHAR : CUA1M / CREAT UR
+15. DocId : 147274 | Concept_CD : SYN|ANA:CY283 | NAME_CHAR : Cl/ Créat ur t2
+16. DocId : 162024 | Concept_CD : SYN|ANA:CY239 | NAME_CHAR : Coti / Creat
+17. DocId : 166706 | Concept_CD : SYN|ANA:CY760 | NAME_CHAR : CLAIRANCE CREAT  t5
+18. DocId : 173011 | Concept_CD : SYN|ANA:CY698 | NAME_CHAR : CLAIRANCE CREAT  t3
+19. DocId : 181469 | Concept_CD : SYN|ANA:CY687 | NAME_CHAR : CLAIRANCE CREAT  sa
+20. DocId : 217180 | Concept_CD : SYN|ANA:CY200 | NAME_CHAR : Créat ur en g/l
+21. DocId : 246988 | Concept_CD : SYN|ANA:CY698 | NAME_CHAR : CLAIRANCE CREAT  t3
+22. DocId : 253869 | Concept_CD : SYN|ANA:CY261 | NAME_CHAR : Elim Creat  prlv 3
+23. DocId : 266571 | Concept_CD : SYN|ANA:CY699 | NAME_CHAR : CLAIRANCE CREAT  t4
+24. DocId : 273223 | Concept_CD : SYN|ANA:CY697 | NAME_CHAR : CLAIRANCE CREAT  t2
+25. DocId : 280739 | Concept_CD : SYN|ANA:CY695 | NAME_CHAR : CLAIRANCE CREAT  t1
+26. DocId : 310991 | Concept_CD : DXC|QUESTION|AUTRE:83728 | NAME_CHAR : 005 - Clairance creat
+27. DocId : 313520 | Concept_CD : SYN|ANA:CYCR2 | NAME_CHAR : Elim Creat  prlv 2
+28. DocId : 316777 | Concept_CD : SYN|ANA:CY761 | NAME_CHAR : CLAIRANCE CREAT  t6
+29. DocId : 317147 | Concept_CD : SYN|ANA:CY702 | NAME_CHAR : Oxal / Creat
+30. DocId : 327977 | Concept_CD : DXC|REPONSE:17042-17042|2556 | NAME_CHAR : Créat < 200
+31. DocId : 337896 | Concept_CD : SYN|ANA:CY687 | NAME_CHAR : CLAIRANCE CREAT  sa
+32. DocId : 343438 | Concept_CD : DXC|REPONSE:46211-46211|2555 | NAME_CHAR : Créat > 200
+33. DocId : 354747 | Concept_CD : SYN|ANA:CYCR1 | NAME_CHAR : Elim Creat  prlv 1
+34. DocId : 374529 | Concept_CD : SYN|ANA:CY285 | NAME_CHAR : Na ur/ Créat ur
+35. DocId : 98 | Concept_CD : SYN|ANA:CY275 | NAME_CHAR : Ca / Créat ur t3
+36. DocId : 19532 | Concept_CD : SYN|ANA:CY280 | NAME_CHAR : K / Créat ur t2
+37. DocId : 76966 | Concept_CD : SYN|ANA:CY276 | NAME_CHAR : Na / Créat ur t1
+38. DocId : 89118 | Concept_CD : SYN|ANA:CY277 | NAME_CHAR : Na / Créat ur t2
+39. DocId : 99625 | Concept_CD : SYN|ANA:CY276 | NAME_CHAR : Na / Créat ur t1
+40. DocId : 102991 | Concept_CD : SYN|ANA:CY280 | NAME_CHAR : K / Créat ur t2
+41. DocId : 140087 | Concept_CD : SYN|ANA:CY281 | NAME_CHAR : K / Créat ur t3
+42. DocId : 191712 | Concept_CD : SYN|ANA:CY282 | NAME_CHAR : Cl / Créat ur t1
+43. DocId : 242470 | Concept_CD : SYN|ANA:CY279 | NAME_CHAR : K / Créat ur t1
+44. DocId : 246785 | Concept_CD : SYN|ANA:CY287 | NAME_CHAR : Cl ur / Créat ur
+45. DocId : 254455 | Concept_CD : SYN|ANA:CY277 | NAME_CHAR : Na / Créat ur t2
+46. DocId : 255958 | Concept_CD : SYN|ANA:CY279 | NAME_CHAR : K / Créat ur t1
+47. DocId : 278208 | Concept_CD : SYN|ANA:CY286 | NAME_CHAR : K ur / Créat ur
+48. DocId : 299557 | Concept_CD : SYN|ANA:CY278 | NAME_CHAR : Na / Créat ur t3
+49. DocId : 338057 | Concept_CD : SYN|ANA:CY284 | NAME_CHAR : Cl / Créat ur t3
+50. DocId : 93184 | Concept_CD : DXC|REPONSE:5114-5114|3383 | NAME_CHAR : Creat > 240 ou diurèse < 0,5
+51. DocId : 104711 | Concept_CD : DXC|QUESTION|AUTRE:84311 | NAME_CHAR : 017 - CRP, Urée, Créat vérifiées
+52. DocId : 180197 | Concept_CD : SYN|ANA:CY274 | NAME_CHAR : Ca / Créat ur tp 2
+53. DocId : 256907 | Concept_CD : SYN|ANA:CY273 | NAME_CHAR : Ca / Créat ur tp 1
+54. DocId : 278444 | Concept_CD : SYN|ANA:CY272 | NAME_CHAR : Ca / Créat ur tp 0
+55. DocId : 300589 | Concept_CD : DXC|REPONSE:5114-5114|3384 | NAME_CHAR : Creat > 360 ou diurèse < 0,3
+56. DocId : 320399 | Concept_CD : DXC|REPONSE:5114-5114|3382 | NAME_CHAR : Creat > 165 ou diurèse < 0,5
+57. DocId : 185620 | Concept_CD : DXC|REPONSE:160035-160035|608710 | NAME_CHAR : URGENCE (impliquant attente résult créat pr inject° de PDC)

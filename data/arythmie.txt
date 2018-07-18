@@ -1,0 +1,83 @@
+1. DocId : 53806 | Concept_CD : DXC|REPONSE:21583-21583|16452 | NAME_CHAR : Arythmie
+2. DocId : 264359 | Concept_CD : DXC|REPONSE:16358-16358|13398 | NAME_CHAR : Arythmie
+3. DocId : 287977 | Concept_CD : DXC|REPONSE:174305-174305|603965 | NAME_CHAR : Arythmie
+4. DocId : 4099 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+5. DocId : 16524 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+6. DocId : 30275 | Concept_CD : DXC|REPONSE:13460-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+7. DocId : 33351 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+8. DocId : 39204 | Concept_CD : DXC|REPONSE:13425-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+9. DocId : 55661 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+10. DocId : 65714 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+11. DocId : 123753 | Concept_CD : DXC|REPONSE:118063-118063|596175 | NAME_CHAR : Arythmie (ACFA)
+12. DocId : 131381 | Concept_CD : DXC|REPONSE:118064-118064|596183 | NAME_CHAR : Arythmie (ACFA)
+13. DocId : 236564 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+14. DocId : 240474 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+15. DocId : 258243 | Concept_CD : DXC|REPONSE:27080-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+16. DocId : 292389 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+17. DocId : 305471 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I49.4 | NAME_CHAR : Arythmie extrasystolique
+18. DocId : 335288 | Concept_CD : DXC|REPONSE:153116-153116|596175 | NAME_CHAR : Arythmie (ACFA)
+19. DocId : 3317 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+20. DocId : 4347 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+21. DocId : 9477 | Concept_CD : DXC|QUESTION|AUTRE:172105 | NAME_CHAR : 269 - Arythmie cardiaque  
+22. DocId : 13804 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+23. DocId : 22108 | Concept_CD : DXC|QUESTION|AUTRE:175005 | NAME_CHAR : 269 - Arythmie cardiaque  
+24. DocId : 24768 | Concept_CD : DXC|REPONSE:21253-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+25. DocId : 24854 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+26. DocId : 28989 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+27. DocId : 31645 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+28. DocId : 40826 | Concept_CD : DXC|REPONSE:8224-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+29. DocId : 43210 | Concept_CD : DXC|QUESTION|AUTRE:174926 | NAME_CHAR : 190 - Arythmie cardiaque
+30. DocId : 43763 | Concept_CD : DXC|REPONSE:13642-ICD10CHU|I49.9 | NAME_CHAR : ARYTHMIE (CARDIAQUE) SAI
+31. DocId : 46707 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+32. DocId : 46715 | Concept_CD : DXC|QUESTION|AUTRE:177129 | NAME_CHAR : 181 - Arythmie cardiaque
+33. DocId : 91679 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+34. DocId : 103654 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|I49.9 | NAME_CHAR : ARYTHMIE (CARDIAQUE) SAI
+35. DocId : 105847 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+36. DocId : 111244 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|P29.1 | NAME_CHAR : Arythmie cardiaque néonatale
+37. DocId : 113193 | Concept_CD : DXC|REPONSE:4904-ICD10CHU|I49.9 | NAME_CHAR : ARYTHMIE (CARDIAQUE) SAI
+38. DocId : 117094 | Concept_CD : DXC|QUESTION|AUTRE:15571 | NAME_CHAR : 096 - Arythmie déclenchée
+39. DocId : 140448 | Concept_CD : DXC|REPONSE:13425-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+40. DocId : 142319 | Concept_CD : DXC|REPONSE:13633-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+41. DocId : 157550 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+42. DocId : 160174 | Concept_CD : DXC|QUESTION|AUTRE:55020 | NAME_CHAR : 020 - Arythmie
+43. DocId : 166124 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+44. DocId : 170441 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+45. DocId : 171709 | Concept_CD : DXC|REPONSE:25458-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+46. DocId : 181244 | Concept_CD : DXC|QUESTION|AUTRE:176068 | NAME_CHAR : 256 - Arythmie cardiaque  
+47. DocId : 189996 | Concept_CD : DXC|REPONSE:15302-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+48. DocId : 218084 | Concept_CD : DXC|REPONSE:13460-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+49. DocId : 222848 | Concept_CD : DXC|REPONSE:13642-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+50. DocId : 224088 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+51. DocId : 227202 | Concept_CD : DXC|REPONSE:13460-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+52. DocId : 231865 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+53. DocId : 232372 | Concept_CD : DXC|QUESTION|AUTRE:177204 | NAME_CHAR : 256 - Arythmie cardiaque  
+54. DocId : 243031 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+55. DocId : 243671 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I47.0 | NAME_CHAR : Arythmie ventriculaire de réentrée
+56. DocId : 257878 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+57. DocId : 261918 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I47.0 | NAME_CHAR : Arythmie ventriculaire de réentrée
+58. DocId : 264579 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+59. DocId : 269555 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+60. DocId : 270816 | Concept_CD : DXC|REPONSE:4904-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+61. DocId : 271293 | Concept_CD : DXC|REPONSE:13633-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+62. DocId : 282990 | Concept_CD : DXC|QUESTION|AUTRE:175989 | NAME_CHAR : 181 - Arythmie cardiaque
+63. DocId : 286861 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+64. DocId : 288981 | Concept_CD : DXC|REPONSE:13425-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+65. DocId : 289805 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+66. DocId : 290982 | Concept_CD : DXC|REPONSE:10370-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+67. DocId : 294998 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+68. DocId : 299730 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+69. DocId : 300331 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I47.0 | NAME_CHAR : Arythmie ventriculaire de réentrée
+70. DocId : 301706 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|I47.0 | NAME_CHAR : Arythmie ventriculaire de réentrée
+71. DocId : 324490 | Concept_CD : DXC|REPONSE:8505-ICD10CHU|I49.9 | NAME_CHAR : Arythmie cardiaque, sans précision
+72. DocId : 328801 | Concept_CD : DXC|QUESTION|AUTRE:172024 | NAME_CHAR : 190 - Arythmie cardiaque
+73. DocId : 330830 | Concept_CD : DXC|REPONSE:8505-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+74. DocId : 337279 | Concept_CD : DXC|REPONSE:82669-82669|38652 | NAME_CHAR : Arythmie nécessitant un traitement
+75. DocId : 347816 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+76. DocId : 356815 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+77. DocId : 364972 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+78. DocId : 370388 | Concept_CD : DXC|REPONSE:25458-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+79. DocId : 376747 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I49.9 | NAME_CHAR : Arythmie (cardiaque) SAI
+80. DocId : 132097 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|G47.8 | NAME_CHAR : Trouble lié au sommeil : Arythmie cardiaque
+81. DocId : 144003 | Concept_CD : DXC|QUESTION|BLOB:15581 | NAME_CHAR : 109 - Arythmie déclenchée durant le test
+82. DocId : 225731 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|G47.8 | NAME_CHAR : Trouble lié au sommeil : Arythmie cardiaque
+83. DocId : 353249 | Concept_CD : DXC|QUESTION|AUTRE:159928 | NAME_CHAR : 017 - Sensation de tachycardie ou arythmie avant perte de connaissance

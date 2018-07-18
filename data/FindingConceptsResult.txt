@@ -1,0 +1,224 @@
+1. DocId : 20051 | Concept_CD : DXC|REPONSE:132177-132177|27751 | NAME_CHAR : Fibrillation auriculaire
+2. DocId : 25559 | Concept_CD : DXC|REPONSE:68026-68026|25453 | NAME_CHAR : Fibrillation auriculaire
+3. DocId : 37465 | Concept_CD : DXC|REPONSE:51724-51724|25573 | NAME_CHAR : Fibrillation auriculaire
+4. DocId : 54722 | Concept_CD : DXC|REPONSE:151743-151743|125011 | NAME_CHAR : ACFA
+5. DocId : 58350 | Concept_CD : DXC|REPONSE:126583-126583|27751 | NAME_CHAR : Fibrillation auriculaire
+6. DocId : 64326 | Concept_CD : DXC|REPONSE:70474-70474|25573 | NAME_CHAR : Fibrillation auriculaire
+7. DocId : 73651 | Concept_CD : DXC|REPONSE:135047-135047|27751 | NAME_CHAR : Fibrillation auriculaire
+8. DocId : 151547 | Concept_CD : DXC|REPONSE:126756-126756|25453 | NAME_CHAR : Fibrillation auriculaire
+9. DocId : 166014 | Concept_CD : DXC|REPONSE:67868-67868|27751 | NAME_CHAR : Fibrillation auriculaire
+10. DocId : 188771 | Concept_CD : DXC|REPONSE:107807-107807|125017 | NAME_CHAR : ACFA
+11. DocId : 217453 | Concept_CD : DXC|REPONSE:130285-130285|25573 | NAME_CHAR : Fibrillation auriculaire
+12. DocId : 237667 | Concept_CD : DXC|REPONSE:144534-144534|605781 | NAME_CHAR : fibrillation auriculaire
+13. DocId : 313927 | Concept_CD : DXC|REPONSE:51890-51890|25453 | NAME_CHAR : Fibrillation auriculaire
+14. DocId : 314189 | Concept_CD : DXC|REPONSE:149999-149999|605781 | NAME_CHAR : fibrillation auriculaire
+15. DocId : 334515 | Concept_CD : DXC|REPONSE:151744-151744|125017 | NAME_CHAR : ACFA
+16. DocId : 353728 | Concept_CD : DXC|REPONSE:107806-107806|125011 | NAME_CHAR : ACFA
+17. DocId : 6036 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+18. DocId : 6724 | Concept_CD : DXC|REPONSE:41908-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+19. DocId : 7868 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+20. DocId : 13533 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+21. DocId : 14099 | Concept_CD : DXC|REPONSE:4904-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+22. DocId : 16095 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+23. DocId : 22124 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+24. DocId : 25912 | Concept_CD : DXC|REPONSE:127189-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+25. DocId : 32133 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+26. DocId : 52576 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+27. DocId : 54537 | Concept_CD : DXC|REPONSE:8224-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+28. DocId : 66060 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+29. DocId : 67881 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+30. DocId : 88998 | Concept_CD : DXC|REPONSE:81426-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+31. DocId : 95244 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+32. DocId : 101513 | Concept_CD : DXC|REPONSE:81426-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+33. DocId : 110679 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+34. DocId : 115210 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+35. DocId : 115569 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+36. DocId : 122689 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+37. DocId : 126699 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+38. DocId : 129855 | Concept_CD : DXC|REPONSE:127189-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+39. DocId : 135280 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+40. DocId : 138265 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+41. DocId : 139495 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+42. DocId : 145943 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+43. DocId : 149631 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+44. DocId : 150394 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+45. DocId : 152684 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+46. DocId : 161917 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+47. DocId : 162857 | Concept_CD : DXC|REPONSE:34401-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+48. DocId : 164564 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+49. DocId : 164910 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+50. DocId : 165201 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+51. DocId : 172188 | Concept_CD : DXC|REPONSE:13633-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+52. DocId : 180857 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+53. DocId : 201694 | Concept_CD : DXC|REPONSE:8333-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+54. DocId : 205468 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+55. DocId : 209435 | Concept_CD : DXC|REPONSE:26826-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+56. DocId : 217061 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+57. DocId : 229809 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+58. DocId : 232358 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+59. DocId : 242446 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+60. DocId : 250960 | Concept_CD : DXC|REPONSE:127189-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+61. DocId : 253825 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+62. DocId : 259024 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+63. DocId : 266631 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+64. DocId : 282717 | Concept_CD : DXC|REPONSE:148766-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+65. DocId : 289612 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+66. DocId : 295585 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+67. DocId : 309000 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+68. DocId : 314118 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+69. DocId : 316334 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+70. DocId : 317449 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+71. DocId : 318090 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+72. DocId : 327100 | Concept_CD : DXC|REPONSE:9240-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+73. DocId : 351060 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+74. DocId : 364743 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+75. DocId : 365703 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+76. DocId : 7398 | Concept_CD : DXC|REPONSE:148766-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+77. DocId : 77917 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+78. DocId : 77936 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+79. DocId : 78240 | Concept_CD : DXC|REPONSE:127189-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+80. DocId : 94937 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+81. DocId : 139757 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+82. DocId : 180044 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+83. DocId : 188150 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+84. DocId : 207056 | Concept_CD : DXC|REPONSE:57025-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+85. DocId : 214357 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+86. DocId : 214363 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+87. DocId : 244515 | Concept_CD : DXC|REPONSE:112392-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+88. DocId : 252993 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+89. DocId : 281410 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+90. DocId : 287454 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+91. DocId : 292766 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+92. DocId : 330094 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+93. DocId : 330576 | Concept_CD : DXC|REPONSE:57009-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+94. DocId : 346127 | Concept_CD : DXC|REPONSE:74623-74623|35831 | NAME_CHAR : Fibrillation auriculaire contre-indication anticoagulants oraux)
+95. DocId : 144153 | Concept_CD : DXC|QUESTION|AUTRE:15643 | NAME_CHAR : 042 - Ablation fibrillation auriculaire OG
+96. DocId : 318427 | Concept_CD : DXC|REPONSE:116405-116405|595593 | NAME_CHAR : Cardiopathie/Artériopathie : Fibrillation auriculaire , BAV
+97. DocId : 345556 | Concept_CD : DXC|QUESTION|AUTRE:15642 | NAME_CHAR : 035 - Ablation fibrillation auriculaire OD
+98. DocId : 8124 | Concept_CD : DXC|REPONSE:81426-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+99. DocId : 43267 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+100. DocId : 47688 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+101. DocId : 73975 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+102. DocId : 84177 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+103. DocId : 109378 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante de moins d'un an (inf. 1 an)
+104. DocId : 124781 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+105. DocId : 184298 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+106. DocId : 192455 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante de moins d'un an (inf. 1 an)
+107. DocId : 215914 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+108. DocId : 230048 | Concept_CD : DXC|REPONSE:13633-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+109. DocId : 326113 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+110. DocId : 332858 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante de moins d'un an (inf. 1 an)
+111. DocId : 339733 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+112. DocId : 373852 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+1. DocId : 20051 | Concept_CD : DXC|REPONSE:132177-132177|27751 | NAME_CHAR : Fibrillation auriculaire
+2. DocId : 25559 | Concept_CD : DXC|REPONSE:68026-68026|25453 | NAME_CHAR : Fibrillation auriculaire
+3. DocId : 37465 | Concept_CD : DXC|REPONSE:51724-51724|25573 | NAME_CHAR : Fibrillation auriculaire
+4. DocId : 54722 | Concept_CD : DXC|REPONSE:151743-151743|125011 | NAME_CHAR : ACFA
+5. DocId : 58350 | Concept_CD : DXC|REPONSE:126583-126583|27751 | NAME_CHAR : Fibrillation auriculaire
+6. DocId : 64326 | Concept_CD : DXC|REPONSE:70474-70474|25573 | NAME_CHAR : Fibrillation auriculaire
+7. DocId : 73651 | Concept_CD : DXC|REPONSE:135047-135047|27751 | NAME_CHAR : Fibrillation auriculaire
+8. DocId : 151547 | Concept_CD : DXC|REPONSE:126756-126756|25453 | NAME_CHAR : Fibrillation auriculaire
+9. DocId : 166014 | Concept_CD : DXC|REPONSE:67868-67868|27751 | NAME_CHAR : Fibrillation auriculaire
+10. DocId : 188771 | Concept_CD : DXC|REPONSE:107807-107807|125017 | NAME_CHAR : ACFA
+11. DocId : 217453 | Concept_CD : DXC|REPONSE:130285-130285|25573 | NAME_CHAR : Fibrillation auriculaire
+12. DocId : 237667 | Concept_CD : DXC|REPONSE:144534-144534|605781 | NAME_CHAR : fibrillation auriculaire
+13. DocId : 313927 | Concept_CD : DXC|REPONSE:51890-51890|25453 | NAME_CHAR : Fibrillation auriculaire
+14. DocId : 314189 | Concept_CD : DXC|REPONSE:149999-149999|605781 | NAME_CHAR : fibrillation auriculaire
+15. DocId : 334515 | Concept_CD : DXC|REPONSE:151744-151744|125017 | NAME_CHAR : ACFA
+16. DocId : 353728 | Concept_CD : DXC|REPONSE:107806-107806|125011 | NAME_CHAR : ACFA
+17. DocId : 6036 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+18. DocId : 6724 | Concept_CD : DXC|REPONSE:41908-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+19. DocId : 7868 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+20. DocId : 13533 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+21. DocId : 14099 | Concept_CD : DXC|REPONSE:4904-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+22. DocId : 16095 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+23. DocId : 22124 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+24. DocId : 25912 | Concept_CD : DXC|REPONSE:127189-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+25. DocId : 32133 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+26. DocId : 52576 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+27. DocId : 54537 | Concept_CD : DXC|REPONSE:8224-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+28. DocId : 66060 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+29. DocId : 67881 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+30. DocId : 88998 | Concept_CD : DXC|REPONSE:81426-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+31. DocId : 95244 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+32. DocId : 101513 | Concept_CD : DXC|REPONSE:81426-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+33. DocId : 110679 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+34. DocId : 115210 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+35. DocId : 115569 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+36. DocId : 122689 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+37. DocId : 126699 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+38. DocId : 129855 | Concept_CD : DXC|REPONSE:127189-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+39. DocId : 135280 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+40. DocId : 138265 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+41. DocId : 139495 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+42. DocId : 145943 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+43. DocId : 149631 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+44. DocId : 150394 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+45. DocId : 152684 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+46. DocId : 161917 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+47. DocId : 162857 | Concept_CD : DXC|REPONSE:34401-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+48. DocId : 164564 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+49. DocId : 164910 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+50. DocId : 165201 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+51. DocId : 172188 | Concept_CD : DXC|REPONSE:13633-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+52. DocId : 180857 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+53. DocId : 201694 | Concept_CD : DXC|REPONSE:8333-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+54. DocId : 205468 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+55. DocId : 209435 | Concept_CD : DXC|REPONSE:26826-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+56. DocId : 217061 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+57. DocId : 229809 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+58. DocId : 232358 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+59. DocId : 242446 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+60. DocId : 250960 | Concept_CD : DXC|REPONSE:127189-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+61. DocId : 253825 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+62. DocId : 259024 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+63. DocId : 266631 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+64. DocId : 282717 | Concept_CD : DXC|REPONSE:148766-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+65. DocId : 289612 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+66. DocId : 295585 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+67. DocId : 309000 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+68. DocId : 314118 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+69. DocId : 316334 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+70. DocId : 317449 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+71. DocId : 318090 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+72. DocId : 327100 | Concept_CD : DXC|REPONSE:9240-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire paroxystique
+73. DocId : 351060 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48.0 | NAME_CHAR : Fibrillation auriculaire paroxystique
+74. DocId : 364743 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+75. DocId : 365703 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I48.1 | NAME_CHAR : Fibrillation auriculaire persistante
+76. DocId : 7398 | Concept_CD : DXC|REPONSE:148766-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+77. DocId : 77917 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+78. DocId : 77936 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+79. DocId : 78240 | Concept_CD : DXC|REPONSE:127189-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+80. DocId : 94937 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+81. DocId : 139757 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+82. DocId : 180044 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+83. DocId : 188150 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+84. DocId : 207056 | Concept_CD : DXC|REPONSE:57025-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+85. DocId : 214357 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+86. DocId : 214363 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+87. DocId : 244515 | Concept_CD : DXC|REPONSE:112392-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+88. DocId : 252993 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+89. DocId : 281410 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+90. DocId : 287454 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+91. DocId : 292766 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+92. DocId : 330094 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+93. DocId : 330576 | Concept_CD : DXC|REPONSE:57009-ICD10CHU|I48.2 | NAME_CHAR : Fibrillation auriculaire chronique [permanente]
+94. DocId : 346127 | Concept_CD : DXC|REPONSE:74623-74623|35831 | NAME_CHAR : Fibrillation auriculaire contre-indication anticoagulants oraux)
+95. DocId : 144153 | Concept_CD : DXC|QUESTION|AUTRE:15643 | NAME_CHAR : 042 - Ablation fibrillation auriculaire OG
+96. DocId : 318427 | Concept_CD : DXC|REPONSE:116405-116405|595593 | NAME_CHAR : Cardiopathie/Artériopathie : Fibrillation auriculaire , BAV
+97. DocId : 345556 | Concept_CD : DXC|QUESTION|AUTRE:15642 | NAME_CHAR : 035 - Ablation fibrillation auriculaire OD
+98. DocId : 8124 | Concept_CD : DXC|REPONSE:81426-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+99. DocId : 43267 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+100. DocId : 47688 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+101. DocId : 73975 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+102. DocId : 84177 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+103. DocId : 109378 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante de moins d'un an (inf. 1 an)
+104. DocId : 124781 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+105. DocId : 184298 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+106. DocId : 192455 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante de moins d'un an (inf. 1 an)
+107. DocId : 215914 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+108. DocId : 230048 | Concept_CD : DXC|REPONSE:13633-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+109. DocId : 326113 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+110. DocId : 332858 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante de moins d'un an (inf. 1 an)
+111. DocId : 339733 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)
+112. DocId : 373852 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|I48 | NAME_CHAR : Fibrillation auriculaire persistante d'un an et plus (>= 1 an)

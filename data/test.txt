@@ -1,0 +1,366 @@
+﻿1. DocId : 297108 | Concept_CD : DXC|REPONSE:80240-80240|37759 | NAME_CHAR : Créatinine
+2. DocId : 331364 | Concept_CD : DXC|REPONSE:80237-80237|37759 | NAME_CHAR : Créatinine
+3. DocId : 362228 | Concept_CD : DXC|REPONSE:80244-80244|37759 | NAME_CHAR : Créatinine
+4. DocId : 3112 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+5. DocId : 3680 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+6. DocId : 6321 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+7. DocId : 11976 | Concept_CD : SYN|ANA:CY20M | NAME_CHAR : Elim  Créatinine
+8. DocId : 12688 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+9. DocId : 13469 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+10. DocId : 14920 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+11. DocId : 19618 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+12. DocId : 20338 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+13. DocId : 21608 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+14. DocId : 29266 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+15. DocId : 31060 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+16. DocId : 35949 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+17. DocId : 36171 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+18. DocId : 43268 | Concept_CD : SYN|ANA:C1CRD | NAME_CHAR : CREATININE dialyse
+19. DocId : 47472 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+20. DocId : 51152 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+21. DocId : 53482 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+22. DocId : 58192 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+23. DocId : 61111 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+24. DocId : 67971 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+25. DocId : 70252 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+26. DocId : 71079 | Concept_CD : SYN|ANA:C1CRD | NAME_CHAR : CREATININE dialyse
+27. DocId : 74534 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+28. DocId : 74946 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+29. DocId : 77854 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+30. DocId : 80028 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+31. DocId : 80992 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+32. DocId : 83959 | Concept_CD : SYN|ANA:C0CRS | NAME_CHAR : CREATININE sg
+33. DocId : 100472 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+34. DocId : 102609 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+35. DocId : 103926 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+36. DocId : 104278 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+37. DocId : 104504 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+38. DocId : 106199 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+39. DocId : 106478 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+40. DocId : 108014 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+41. DocId : 108074 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+42. DocId : 108302 | Concept_CD : SYN:ANA-C1CRS | NAME_CHAR : CREATININE sg
+43. DocId : 115911 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+44. DocId : 118363 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+45. DocId : 118462 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+46. DocId : 121248 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+47. DocId : 124452 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+48. DocId : 125191 | Concept_CD : SYN|ANA:C0CRU | NAME_CHAR : CREATININE ur
+49. DocId : 126268 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+50. DocId : 126951 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+51. DocId : 130721 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+52. DocId : 133421 | Concept_CD : SYN|ANA:C0CRU | NAME_CHAR : CREATININE ur
+53. DocId : 134019 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+54. DocId : 134762 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+55. DocId : 139633 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+56. DocId : 142093 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+57. DocId : 145083 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+58. DocId : 147399 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+59. DocId : 147556 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+60. DocId : 147594 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+61. DocId : 153016 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+62. DocId : 154831 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+63. DocId : 154995 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+64. DocId : 155595 | Concept_CD : SYN|ANA:CY20M | NAME_CHAR : Elim  Créatinine
+65. DocId : 159598 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+66. DocId : 162860 | Concept_CD : SYN|ANA:C1CRD | NAME_CHAR : CREATININE dialyse
+67. DocId : 165220 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+68. DocId : 167219 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+69. DocId : 172737 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+70. DocId : 173932 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+71. DocId : 174105 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+72. DocId : 177414 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+73. DocId : 177820 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+74. DocId : 180447 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+75. DocId : 183185 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+76. DocId : 183470 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+77. DocId : 187951 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+78. DocId : 188529 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+79. DocId : 189102 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+80. DocId : 195358 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+81. DocId : 196807 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+82. DocId : 196907 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+83. DocId : 196946 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+84. DocId : 200119 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+85. DocId : 207473 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+86. DocId : 208196 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+87. DocId : 208763 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+88. DocId : 209117 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+89. DocId : 209851 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+90. DocId : 209873 | Concept_CD : SYN|ANA:C0CRU | NAME_CHAR : CREATININE ur
+91. DocId : 211119 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+92. DocId : 213840 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+93. DocId : 216225 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+94. DocId : 223992 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+95. DocId : 225931 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+96. DocId : 227340 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+97. DocId : 231997 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+98. DocId : 232087 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+99. DocId : 237475 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+100. DocId : 238166 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+101. DocId : 238543 | Concept_CD : SYN|ANA:C1CRD | NAME_CHAR : CREATININE dialyse
+102. DocId : 239337 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+103. DocId : 246757 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+104. DocId : 248185 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+105. DocId : 253306 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+106. DocId : 256615 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+107. DocId : 258737 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+108. DocId : 258896 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+109. DocId : 263495 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+110. DocId : 271432 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+111. DocId : 273780 | Concept_CD : SYN|ANA:C1CRD | NAME_CHAR : CREATININE dialyse
+112. DocId : 274193 | Concept_CD : SYN|ANA:C0CRU | NAME_CHAR : CREATININE ur
+113. DocId : 282575 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+114. DocId : 282752 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+115. DocId : 284036 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+116. DocId : 285445 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+117. DocId : 286801 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+118. DocId : 290050 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+119. DocId : 292883 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+120. DocId : 293149 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+121. DocId : 293751 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+122. DocId : 293780 | Concept_CD : SYN|ANA:C0CRS | NAME_CHAR : CREATININE sg
+123. DocId : 294462 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+124. DocId : 296337 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+125. DocId : 300616 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+126. DocId : 301416 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+127. DocId : 303528 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+128. DocId : 304604 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+129. DocId : 307334 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+130. DocId : 311784 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+131. DocId : 313001 | Concept_CD : SYN|ANA:C0CRU | NAME_CHAR : CREATININE ur
+132. DocId : 315456 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+133. DocId : 319391 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+134. DocId : 321551 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+135. DocId : 322308 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+136. DocId : 323299 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+137. DocId : 325507 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+138. DocId : 331591 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+139. DocId : 333076 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+140. DocId : 334897 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+141. DocId : 334931 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+142. DocId : 341837 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+143. DocId : 342910 | Concept_CD : SYN|ANA:C0CRU | NAME_CHAR : CREATININE ur
+144. DocId : 344165 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+145. DocId : 344597 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+146. DocId : 346837 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+147. DocId : 349775 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+148. DocId : 350905 | Concept_CD : SYN:ANA-C1CRS | NAME_CHAR : CREATININE sg
+149. DocId : 359083 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+150. DocId : 360639 | Concept_CD : SYN|ANA:CY607 | NAME_CHAR : CLAIRANCE CREATININE
+151. DocId : 361041 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+152. DocId : 364464 | Concept_CD : SYN:ANA-C1CRS | NAME_CHAR : CREATININE sg
+153. DocId : 365395 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+154. DocId : 365869 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+155. DocId : 366062 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+156. DocId : 366419 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+157. DocId : 369662 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+158. DocId : 371835 | Concept_CD : SYN|ANA:CY209 | NAME_CHAR : Elim  Créatinine
+159. DocId : 372482 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+160. DocId : 372642 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+161. DocId : 372937 | Concept_CD : SYN|ANA:C1CRS | NAME_CHAR : CREATININE sg
+162. DocId : 375087 | Concept_CD : SYN|ANA:C1CRU | NAME_CHAR : CREATININE ur
+163. DocId : 6923 | Concept_CD : DXC|REPONSE:147089-147089|606712 | NAME_CHAR : Créatinine > 170 µmol/L
+164. DocId : 6972 | Concept_CD : DXC|QUESTION|AUTRE:11322 | NAME_CHAR : 057 - Créatinine (mmol/l)
+165. DocId : 11340 | Concept_CD : SYN|ANA:C1CR4 | NAME_CHAR : CREATININE ur tp 4
+166. DocId : 11729 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+167. DocId : 14794 | Concept_CD : DXC|QUESTION|AUTRE:103893 | NAME_CHAR : 099 - Créatinine (µmol/l)
+168. DocId : 22963 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+169. DocId : 27694 | Concept_CD : DXC|REPONSE:147089-147089|606710 | NAME_CHAR : Créatinine < 110 µmol/L
+170. DocId : 29996 | Concept_CD : SYN|ANA:C1CD3 | NAME_CHAR : CREATININE dial 3
+171. DocId : 30290 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+172. DocId : 34193 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+173. DocId : 34668 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+174. DocId : 35345 | Concept_CD : SYN|ANA:CY241 | NAME_CHAR : Créatinine des 12h
+175. DocId : 35435 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+176. DocId : 36437 | Concept_CD : SYN|ANA:CY556 | NAME_CHAR : Urée / Créatinine  u
+177. DocId : 36814 | Concept_CD : SYN|ANA:C1CD2 | NAME_CHAR : CREATININE dial 2
+178. DocId : 38149 | Concept_CD : DXC|QUESTION|AUTRE:88606 | NAME_CHAR : 011 - Créatinine
+179. DocId : 38949 | Concept_CD : SYN|ANA:C1CR3 | NAME_CHAR : CREATININE ur tp 3
+180. DocId : 45737 | Concept_CD : SYN|ANA:C1CS2 | NAME_CHAR : CREATININE sg tps 2
+181. DocId : 50907 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+182. DocId : 52597 | Concept_CD : DXC|REPONSE:45226-45226|2940 | NAME_CHAR : Urée - Créatinine
+183. DocId : 55981 | Concept_CD : DXC|QUESTION|AUTRE:83725 | NAME_CHAR : 002 - Creatinine test
+184. DocId : 57077 | Concept_CD : SYN|ANA:C1CR4 | NAME_CHAR : CREATININE ur tp 4
+185. DocId : 57441 | Concept_CD : SYN|ANA:C1CR6 | NAME_CHAR : CREATININE ur tp 6
+186. DocId : 58968 | Concept_CD : SYN|ANA:C1CR0 | NAME_CHAR : CREATININE ur tp 0
+187. DocId : 65880 | Concept_CD : DXC|QUESTION|BLOB:82713 | NAME_CHAR : 027 - Créatinine
+188. DocId : 66376 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+189. DocId : 66551 | Concept_CD : DXC|REPONSE:4656-4656|2940 | NAME_CHAR : Urée - Créatinine
+190. DocId : 70305 | Concept_CD : SYN|ANA:C1CD5 | NAME_CHAR : CREATININE dial 5
+191. DocId : 70506 | Concept_CD : DXC|QUESTION|AUTRE:165294 | NAME_CHAR : 142 - Créatinine (µmol/L)
+192. DocId : 76750 | Concept_CD : SYN|ANA:C1CR6 | NAME_CHAR : CREATININE ur tp 6
+193. DocId : 77583 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+194. DocId : 78128 | Concept_CD : DXC|REPONSE:4615-4615|2940 | NAME_CHAR : Urée - Créatinine
+195. DocId : 85210 | Concept_CD : SYN|ANA:C1CD2 | NAME_CHAR : CREATININE dial 2
+196. DocId : 85308 | Concept_CD : SYN|ANA:C1CR4 | NAME_CHAR : CREATININE ur tp 4
+197. DocId : 85985 | Concept_CD : DXC|REPONSE:22231-22231|2940 | NAME_CHAR : Urée - Créatinine
+198. DocId : 87935 | Concept_CD : DXC|QUESTION|AUTRE:46211 | NAME_CHAR : 009 - Créatinine préop
+199. DocId : 88242 | Concept_CD : SYN|ANA:C1CR6 | NAME_CHAR : CREATININE ur tp 6
+200. DocId : 88884 | Concept_CD : DXC|REPONSE:147089-147089|606711 | NAME_CHAR : Créatinine >= 110 µmol/L
+201. DocId : 89088 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+202. DocId : 93423 | Concept_CD : SYN|ANA:DCR | NAME_CHAR : CREATININE art del
+203. DocId : 94750 | Concept_CD : SYN|ANA:C1CR5 | NAME_CHAR : CREATININE ur tp 5
+204. DocId : 100759 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+205. DocId : 105748 | Concept_CD : SYN|ANA:C1CR3 | NAME_CHAR : CREATININE ur tp 3
+206. DocId : 106987 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+207. DocId : 109143 | Concept_CD : DXC|QUESTION|AUTRE:94687 | NAME_CHAR : 023 - Créatinine (µmol/L)
+208. DocId : 112117 | Concept_CD : DXC|QUESTION|AUTRE:17042 | NAME_CHAR : 003 - Créatinine préop
+209. DocId : 113578 | Concept_CD : SYN|ANA:C1CR4 | NAME_CHAR : CREATININE ur tp 4
+210. DocId : 116352 | Concept_CD : SYN|ANA:C1CR4 | NAME_CHAR : CREATININE ur tp 4
+211. DocId : 121329 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+212. DocId : 124107 | Concept_CD : SYN|ANA:C1CR5 | NAME_CHAR : CREATININE ur tp 5
+213. DocId : 126065 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+214. DocId : 127330 | Concept_CD : SYN|ANA:C1CR4 | NAME_CHAR : CREATININE ur tp 4
+215. DocId : 129493 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+216. DocId : 132240 | Concept_CD : SYN|ANA:C1CD6 | NAME_CHAR : CREATININE dial 6
+217. DocId : 134123 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+218. DocId : 137642 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+219. DocId : 138289 | Concept_CD : SYN|ANA:C1CR5 | NAME_CHAR : CREATININE ur tp 5
+220. DocId : 138903 | Concept_CD : SYN|ANA:C1CR6 | NAME_CHAR : CREATININE ur tp 6
+221. DocId : 139178 | Concept_CD : DXC|QUESTION|AUTRE:55945 | NAME_CHAR : 078 - Créatinine (µmol/l)
+222. DocId : 140185 | Concept_CD : DXC|QUESTION|AUTRE:7980 | NAME_CHAR : 007 - Créatinine (micro-mol/l)
+223. DocId : 140834 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+224. DocId : 149615 | Concept_CD : SYN|ANA:C1CD1 | NAME_CHAR : CREATININE dial 1
+225. DocId : 149888 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+226. DocId : 152094 | Concept_CD : SYN|ANA:C1CD3 | NAME_CHAR : CREATININE dial 3
+227. DocId : 155742 | Concept_CD : SYN|ANA:C1CR5 | NAME_CHAR : CREATININE ur tp 5
+228. DocId : 157947 | Concept_CD : DXC|QUESTION|AUTRE:30515 | NAME_CHAR : 023 - Créatinine (µmol/L)
+229. DocId : 164896 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+230. DocId : 166675 | Concept_CD : DXC|QUESTION|AUTRE:28908 | NAME_CHAR : 043 - Créatinine (µmol/l)
+231. DocId : 167521 | Concept_CD : DXC|QUESTION|AUTRE:21098 | NAME_CHAR : 006 - Créatinine
+232. DocId : 167964 | Concept_CD : SYN|ANA:C1CD2 | NAME_CHAR : CREATININE dial 2
+233. DocId : 172147 | Concept_CD : SYN|ANA:CY556 | NAME_CHAR : Urée / Créatinine  u
+234. DocId : 174623 | Concept_CD : SYN|ANA:C1CR7 | NAME_CHAR : CREATININE ur tp 7
+235. DocId : 176043 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+236. DocId : 184707 | Concept_CD : SYN|ANA:C1CR3 | NAME_CHAR : CREATININE ur tp 3
+237. DocId : 185585 | Concept_CD : SYN|ANA:C1CD6 | NAME_CHAR : CREATININE dial 6
+238. DocId : 186447 | Concept_CD : SYN|ANA:C1CR3 | NAME_CHAR : CREATININE ur tp 3
+239. DocId : 188902 | Concept_CD : DXC|QUESTION|BLOB:148786 | NAME_CHAR : 028 - Créatinine
+240. DocId : 191102 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+241. DocId : 192754 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+242. DocId : 196207 | Concept_CD : SYN|ANA:C2CR3 | NAME_CHAR : CREATININE sg P3
+243. DocId : 197813 | Concept_CD : DXC|QUESTION|AUTRE:158020 | NAME_CHAR : 042 - Créatinine (µmol/L)
+244. DocId : 198071 | Concept_CD : SYN|ANA:C1CR3 | NAME_CHAR : CREATININE ur tp 3
+245. DocId : 198258 | Concept_CD : DXC|QUESTION|AUTRE:95877 | NAME_CHAR : 020 - Créatinine (µmol/L)
+246. DocId : 199758 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+247. DocId : 209799 | Concept_CD : DXC|QUESTION|AUTRE:48777 | NAME_CHAR : 163 - Créatinine (umol/l)
+248. DocId : 211952 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+249. DocId : 219290 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+250. DocId : 220203 | Concept_CD : DXC|REPONSE:9848-9848|2940 | NAME_CHAR : Urée - Créatinine
+251. DocId : 220410 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+252. DocId : 225054 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+253. DocId : 226509 | Concept_CD : SYN|ANA:C1CRX | NAME_CHAR : CREATININE liq bio
+254. DocId : 226646 | Concept_CD : DXC|QUESTION|AUTRE:103834 | NAME_CHAR : 036 - Créatinine (µmol/l)
+255. DocId : 229017 | Concept_CD : SYN|ANA:C1CR0 | NAME_CHAR : CREATININE ur tp 0
+256. DocId : 236637 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+257. DocId : 238861 | Concept_CD : SYN|ANA:C1CD0 | NAME_CHAR : CREATININE dial 0
+258. DocId : 239133 | Concept_CD : DXC|QUESTION|AUTRE:140218 | NAME_CHAR : 083 - Créatinine (µmol/L)
+259. DocId : 241889 | Concept_CD : SYN|ANA:C1CR4 | NAME_CHAR : CREATININE ur tp 4
+260. DocId : 246626 | Concept_CD : SYN|ANA:C1CR1 | NAME_CHAR : CREATININE ur tp 1
+261. DocId : 247067 | Concept_CD : SYN|ANA:C1C12 | NAME_CHAR : CREATININE ur 12h
+262. DocId : 249048 | Concept_CD : DXC|QUESTION|AUTRE:100112 | NAME_CHAR : 039 - Créatinine
+263. DocId : 255089 | Concept_CD : SYN|ANA:C1CR3 | NAME_CHAR : CREATININE ur tp 3
+264. DocId : 261539 | Concept_CD : SYN|ANA:C1CD4 | NAME_CHAR : CREATININE dial 4
+265. DocId : 264965 | Concept_CD : SYN|ANA:CY556 | NAME_CHAR : Urée / Créatinine  u
+266. DocId : 267560 | Concept_CD : SYN|ANA:C1CR0 | NAME_CHAR : CREATININE ur tp 0
+267. DocId : 267730 | Concept_CD : SYN|ANA:C1CD5 | NAME_CHAR : CREATININE dial 5
+268. DocId : 269193 | Concept_CD : DXC|QUESTION|AUTRE:94825 | NAME_CHAR : 023 - Créatinine (µmol/L)
+269. DocId : 272155 | Concept_CD : DXC|QUESTION|BLOB:175186 | NAME_CHAR : 043 - Créatinine
+270. DocId : 284481 | Concept_CD : SYN|ANA:C1CR4 | NAME_CHAR : CREATININE ur tp 4
+271. DocId : 285611 | Concept_CD : SYN|ANA:C1CR3 | NAME_CHAR : CREATININE ur tp 3
+272. DocId : 286807 | Concept_CD : DXC|QUESTION|AUTRE:171444 | NAME_CHAR : 161 - Créatinine (umol/l)
+273. DocId : 288885 | Concept_CD : DXC|QUESTION|AUTRE:159275 | NAME_CHAR : 011 - Créatinine (µmol/L)
+274. DocId : 290380 | Concept_CD : SYN|ANA:C1CR5 | NAME_CHAR : CREATININE ur tp 5
+275. DocId : 294240 | Concept_CD : SYN|ANA:C1CR7 | NAME_CHAR : CREATININE ur tp 7
+276. DocId : 301022 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+277. DocId : 303163 | Concept_CD : DXC|REPONSE:45223-45223|2940 | NAME_CHAR : Urée - Créatinine
+278. DocId : 305976 | Concept_CD : DXC|QUESTION|AUTRE:14925 | NAME_CHAR : 117 - Créatinine (µmol/l)
+279. DocId : 306892 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+280. DocId : 309044 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+281. DocId : 311761 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+282. DocId : 312908 | Concept_CD : SYN|ANA:C1CR3 | NAME_CHAR : CREATININE ur tp 3
+283. DocId : 317977 | Concept_CD : DXC|QUESTION|AUTRE:6344 | NAME_CHAR : 008 - Créatinine
+284. DocId : 332244 | Concept_CD : DXC|QUESTION|AUTRE:48847 | NAME_CHAR : 194 - Créatinine (umol/l)
+285. DocId : 333628 | Concept_CD : SYN|ANA:C1CD1 | NAME_CHAR : CREATININE dial 1
+286. DocId : 335067 | Concept_CD : SYN|ANA:C1CD1 | NAME_CHAR : CREATININE dial 1
+287. DocId : 335981 | Concept_CD : SYN|ANA:C1CR2 | NAME_CHAR : CREATININE ur tp 2
+288. DocId : 337821 | Concept_CD : SYN|ANA:C1CR3 | NAME_CHAR : CREATININE ur tp 3
+289. DocId : 338284 | Concept_CD : SYN|ANA:C1CRX | NAME_CHAR : CREATININE liq bio
+290. DocId : 340938 | Concept_CD : SYN|ANA:C1CD4 | NAME_CHAR : CREATININE dial 4
+291. DocId : 343832 | Concept_CD : DXC|QUESTION|AUTRE:4975 | NAME_CHAR : 162 - Clairance créatinine
+292. DocId : 345035 | Concept_CD : DXC|QUESTION|AUTRE:73204 | NAME_CHAR : 169 - Clairance créatinine
+293. DocId : 350167 | Concept_CD : DXC|QUESTION|AUTRE:93873 | NAME_CHAR : 036 - Créatinine (µmol/l)
+294. DocId : 351627 | Concept_CD : DXC|QUESTION|AUTRE:21113 | NAME_CHAR : 004 - Créatinine
+295. DocId : 352907 | Concept_CD : SYN|ANA:C1C12 | NAME_CHAR : CREATININE ur 12h
+296. DocId : 354475 | Concept_CD : SYN|ANA:C1CD3 | NAME_CHAR : CREATININE dial 3
+297. DocId : 361605 | Concept_CD : DXC|QUESTION|AUTRE:82367 | NAME_CHAR : 018 - Créatinine (µmoles/l)
+298. DocId : 361872 | Concept_CD : SYN|ANA:C1CRM | NAME_CHAR : CREATININE ur MM
+299. DocId : 376288 | Concept_CD : SYN|ANA:C1CR7 | NAME_CHAR : CREATININE ur tp 7
+300. DocId : 12325 | Concept_CD : DXC|QUESTION|AUTRE:107862 | NAME_CHAR : 040 - Code Créatinine Sexe
+301. DocId : 28506 | Concept_CD : DXC|QUESTION|AUTRE:11474 | NAME_CHAR : 058 - Clairance créatinine (ml/mn)
+302. DocId : 46905 | Concept_CD : DXC|QUESTION|AUTRE:9116 | NAME_CHAR : 026 - Créatinine à l'entrée
+303. DocId : 91770 | Concept_CD : DXC|QUESTION|AUTRE:9205 | NAME_CHAR : 027 - Créatinine à l'entrée
+304. DocId : 145384 | Concept_CD : DXC|QUESTION|AUTRE:107867 | NAME_CHAR : 045 - Clairance Créatinine (mL/min)
+305. DocId : 183399 | Concept_CD : DXC|QUESTION|AUTRE:12178 | NAME_CHAR : 021 - Créatinine à l'entrée
+306. DocId : 185103 | Concept_CD : DXC|QUESTION|AUTRE:144817 | NAME_CHAR : 013 - Clairance créatinine (Cockroft)
+307. DocId : 268332 | Concept_CD : DXC|QUESTION|AUTRE:52145 | NAME_CHAR : 030 - Clairance créatinine (ml/min)
+308. DocId : 278442 | Concept_CD : DXC|QUESTION|AUTRE:158634 | NAME_CHAR : 014 - Clairance Créatinine MDRD
+309. DocId : 345121 | Concept_CD : DXC|QUESTION|AUTRE:11430 | NAME_CHAR : 021 - Créatinine à l'entrée
+310. DocId : 362246 | Concept_CD : DXC|QUESTION|AUTRE:56382 | NAME_CHAR : 151 - Créatinine (en mmol/l)
+311. DocId : 23394 | Concept_CD : DXC|QUESTION|AUTRE:135101 | NAME_CHAR : 045 - Clairance de la créatinine
+312. DocId : 33987 | Concept_CD : DXC|QUESTION|BLOB:147032 | NAME_CHAR : 027 - Clairance de la créatinine (mL/min)
+313. DocId : 51903 | Concept_CD : DXC|QUESTION|AUTRE:147059 | NAME_CHAR : 018 - Clairance créatinine CKD-Epi (mL/min/1,73m²)
+314. DocId : 61422 | Concept_CD : DXC|QUESTION|AUTRE:37192 | NAME_CHAR : 010 - Clairance créatinine MDRD (ml/min)
+315. DocId : 66216 | Concept_CD : DXC|QUESTION|BLOB:175187 | NAME_CHAR : 044 - Clairance de la créatinine
+316. DocId : 71542 | Concept_CD : DXC|QUESTION|AUTRE:87348 | NAME_CHAR : 019 - Clairance de la créatinine (ml/min)
+317. DocId : 72952 | Concept_CD : DXC|QUESTION|BLOB:158088 | NAME_CHAR : 027 - Clairance de la créatinine (mL/min)
+318. DocId : 74989 | Concept_CD : DXC|QUESTION|AUTRE:6966 | NAME_CHAR : 003 - Créatinine (entre 50 et 850)
+319. DocId : 82138 | Concept_CD : DXC|QUESTION|AUTRE:17840 | NAME_CHAR : 011 - Clairance de la créatinine (ml/min)
+320. DocId : 82983 | Concept_CD : DXC|QUESTION|BLOB:102690 | NAME_CHAR : 013 - Synthèse de la CLAIRANCE CREATININE
+321. DocId : 84215 | Concept_CD : DXC|QUESTION|AUTRE:35842 | NAME_CHAR : 004 - Créatinine (µmol/L) pour calcul
+322. DocId : 93169 | Concept_CD : DXC|QUESTION|BLOB:145922 | NAME_CHAR : 015 - Synthèse de la CLAIRANCE CREATININE
+323. DocId : 98607 | Concept_CD : DXC|QUESTION|AUTRE:102108 | NAME_CHAR : 127 - Créatinine (µmol/L) Normes : 23,0-60,0
+324. DocId : 117671 | Concept_CD : DXC|QUESTION|AUTRE:15774 | NAME_CHAR : 098 - Clairance de créatinine (ml/min)
+325. DocId : 138526 | Concept_CD : DXC|QUESTION|AUTRE:110503 | NAME_CHAR : 009 - Clairance créatinine Cockroft (ml/min)
+326. DocId : 142696 | Concept_CD : DXC|QUESTION|BLOB:110507 | NAME_CHAR : 013 - Synthèse de la CLAIRANCE CREATININE
+327. DocId : 160031 | Concept_CD : DXC|QUESTION|AUTRE:145918 | NAME_CHAR : 011 - Clairance créatinine Cockcroft (ml/min)
+328. DocId : 167031 | Concept_CD : DXC|QUESTION|AUTRE:35844 | NAME_CHAR : 009 - Clairance créatinine Cockroft (ml/min)
+329. DocId : 176391 | Concept_CD : DXC|QUESTION|AUTRE:126652 | NAME_CHAR : 107 - Clairance créatinine (ml/min) COCKROFT
+330. DocId : 177363 | Concept_CD : DXC|QUESTION|AUTRE:6971 | NAME_CHAR : 004 - Créatinine (entre 6 et 90)
+331. DocId : 181944 | Concept_CD : DXC|QUESTION|AUTRE:47856 | NAME_CHAR : 015 - Clairance de la créatinine
+332. DocId : 191264 | Concept_CD : DXC|QUESTION|AUTRE:6263 | NAME_CHAR : 007 - Unité de la Créatinine
+333. DocId : 222303 | Concept_CD : DXC|QUESTION|BLOB:148787 | NAME_CHAR : 029 - Clairance de la créatinine
+334. DocId : 223318 | Concept_CD : DXC|QUESTION|AUTRE:110504 | NAME_CHAR : 010 - Clairance créatinine MDRD (ml/min)
+335. DocId : 232351 | Concept_CD : DXC|QUESTION|BLOB:184866 | NAME_CHAR : 013 - Clairance de la créatinine (mL/min)
+336. DocId : 260766 | Concept_CD : DXC|QUESTION|AUTRE:7912 | NAME_CHAR : 004 - Créatinine (entre 6 et 90)
+337. DocId : 266360 | Concept_CD : DXC|QUESTION|AUTRE:177504 | NAME_CHAR : 189 - Créatinine (µmol/L) Normes : 23,0-60,0
+338. DocId : 294734 | Concept_CD : DXC|QUESTION|AUTRE:76903 | NAME_CHAR : 010 - Clairance de la créatinine
+339. DocId : 312011 | Concept_CD : DXC|QUESTION|AUTRE:110498 | NAME_CHAR : 004 - Créatinine (µmol/L) pour calcul
+340. DocId : 312474 | Concept_CD : DXC|QUESTION|AUTRE:145919 | NAME_CHAR : 012 - Clairance créatinine MDRD (ml/min)
+341. DocId : 347026 | Concept_CD : DXC|QUESTION|BLOB:82611 | NAME_CHAR : 028 - Clairance de la créatinine
+342. DocId : 358234 | Concept_CD : DXC|QUESTION|AUTRE:183491 | NAME_CHAR : 116 - Clairance créatinine (ml/min) COCKROFT
+343. DocId : 361515 | Concept_CD : DXC|QUESTION|AUTRE:54587 | NAME_CHAR : 007 - Créatinine < 106 mmol/l
+344. DocId : 364356 | Concept_CD : DXC|QUESTION|AUTRE:7911 | NAME_CHAR : 003 - Créatinine (entre 50 et 850)
+345. DocId : 364709 | Concept_CD : DXC|QUESTION|AUTRE:11393 | NAME_CHAR : 005 - Créatinine Pré-Opératoire (micro-mol/l) [7]
+346. DocId : 366790 | Concept_CD : DXC|QUESTION|AUTRE:84133 | NAME_CHAR : 021 - Clairance de la créatinine (ml/mn)
+347. DocId : 10204 | Concept_CD : DXC|QUESTION|AUTRE:110495 | NAME_CHAR : 001 - Date et heure du dosage de la créatinine
+348. DocId : 21711 | Concept_CD : DXC|QUESTION|AUTRE:145910 | NAME_CHAR : 001 - Date et heure du dosage de la créatinine
+349. DocId : 72459 | Concept_CD : DXC|REPONSE:147089-147089|606713 | NAME_CHAR : Créatinine >= 300 µmol/L ou débit urinaire < 500 mL/24h
+350. DocId : 127034 | Concept_CD : DXC|REPONSE:147089-147089|606714 | NAME_CHAR : Créatinine > 440 µmol/L ou débit urinaire < 200 mL/24h
+351. DocId : 152772 | Concept_CD : DXC|QUESTION|AUTRE:6976 | NAME_CHAR : 007 - Clairance Homme avec créatinine en micromoles
+352. DocId : 271258 | Concept_CD : DXC|QUESTION|AUTRE:90107 | NAME_CHAR : 001 - Date et heure du dosage de la créatinine
+353. DocId : 294913 | Concept_CD : DXC|QUESTION|AUTRE:148064 | NAME_CHAR : 002 - Clairance de la créatinine (mL/min) :
+354. DocId : 345647 | Concept_CD : DXC|QUESTION|AUTRE:117048 | NAME_CHAR : 166 - Date du dernier dosage de la créatinine
+355. DocId : 348688 | Concept_CD : DXC|QUESTION|AUTRE:84749 | NAME_CHAR : 001 - Clairance de la créatinine : Légende
+356. DocId : 18219 | Concept_CD : DXC|QUESTION|AUTRE:7918 | NAME_CHAR : 010 - Clairance Homme calculée à partir de la créatinine en mg/l
+357. DocId : 59993 | Concept_CD : DXC|QUESTION|AUTRE:7915 | NAME_CHAR : 007 - Clairance Homme à partir de la créatinine en micromoles
+358. DocId : 76091 | Concept_CD : DXC|QUESTION|AUTRE:47846 | NAME_CHAR : 005 - Coefficient pour clairance de la créatinine en fonction du sexe
+359. DocId : 154660 | Concept_CD : DXC|QUESTION|AUTRE:75914 | NAME_CHAR : 237 - Un diabète avec clairance de la créatinine <60ml/min ?
+360. DocId : 155286 | Concept_CD : DXC|QUESTION|AUTRE:7916 | NAME_CHAR : 008 - Clairance Femme à partir de la créatinine en micromoles/l
+361. DocId : 159405 | Concept_CD : DXC|QUESTION|AUTRE:6978 | NAME_CHAR : 010 - Clairance Homme calculée à partir de la créatinine en mg/l
+362. DocId : 164874 | Concept_CD : DXC|QUESTION|AUTRE:6979 | NAME_CHAR : 011 - Clairance Femme calculée à partir de la créatinine en mg/l
+363. DocId : 234649 | Concept_CD : DXC|QUESTION|AUTRE:28090 | NAME_CHAR : 175 - Code pour le calcul de la créatinine en fonction du sexe
+364. DocId : 323343 | Concept_CD : DXC|QUESTION|AUTRE:6977 | NAME_CHAR : 008 - Clairance femme à partir de la créatinine en micromoles/l
+365. DocId : 329669 | Concept_CD : DXC|QUESTION|AUTRE:73558 | NAME_CHAR : 003 - Code pour le calcul de la créatinine en fonction du sexe
+366. DocId : 351179 | Concept_CD : DXC|QUESTION|AUTRE:7919 | NAME_CHAR : 011 - Clairance Femme calculée à partir de la créatinine en mg/l

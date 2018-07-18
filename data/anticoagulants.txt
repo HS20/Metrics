@@ -1,0 +1,124 @@
+﻿
+1. DocId : 173956 | Concept_CD : DXC|REPONSE:123995-123995|598889 | NAME_CHAR : Anticoagulants
+2. DocId : 238886 | Concept_CD : SYN|ANA:P9ACO | NAME_CHAR : ANTICOAGULANTS ORAUX
+3. DocId : 4314 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+4. DocId : 13984 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+5. DocId : 19663 | Concept_CD : DXC|REPONSE:13425-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+6. DocId : 22138 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+7. DocId : 23357 | Concept_CD : DXC|REPONSE:8220-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+8. DocId : 31785 | Concept_CD : DXC|REPONSE:80974-80974|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+9. DocId : 35618 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+10. DocId : 41639 | Concept_CD : DXC|REPONSE:25458-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+11. DocId : 43481 | Concept_CD : DXC|REPONSE:13633-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+12. DocId : 44525 | Concept_CD : DXC|REPONSE:4647-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+13. DocId : 49855 | Concept_CD : DXC|REPONSE:127202-127202|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+14. DocId : 52403 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+15. DocId : 64111 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+16. DocId : 67829 | Concept_CD : DXC|REPONSE:132272-132272|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+17. DocId : 78534 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+18. DocId : 103514 | Concept_CD : DXC|REPONSE:3963-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+19. DocId : 117670 | Concept_CD : DXC|REPONSE:4904-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+20. DocId : 125631 | Concept_CD : DXC|REPONSE:68234-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+21. DocId : 135255 | Concept_CD : DXC|QUESTION|AUTRE:64671 | NAME_CHAR : 224 - Présence d'anticoagulants
+22. DocId : 140709 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+23. DocId : 143363 | Concept_CD : DXC|REPONSE:8407-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+24. DocId : 175489 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+25. DocId : 178612 | Concept_CD : DXC|REPONSE:109293-109293|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+26. DocId : 183539 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+27. DocId : 189710 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+28. DocId : 193182 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+29. DocId : 197188 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+30. DocId : 200329 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+31. DocId : 208524 | Concept_CD : DXC|REPONSE:107929-107929|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+32. DocId : 215563 | Concept_CD : DXC|REPONSE:122009-122009|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+33. DocId : 218835 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+34. DocId : 224222 | Concept_CD : DXC|QUESTION|AUTRE:73123 | NAME_CHAR : 088 - Anticoagulants ?
+35. DocId : 237578 | Concept_CD : DXC|QUESTION|BLOB:18204 | NAME_CHAR : 003 - Suivi anticoagulants
+36. DocId : 244098 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+37. DocId : 247779 | Concept_CD : DXC|REPONSE:4904-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+38. DocId : 249601 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+39. DocId : 251090 | Concept_CD : DXC|REPONSE:28055-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+40. DocId : 280035 | Concept_CD : DXC|REPONSE:13460-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+41. DocId : 281486 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+42. DocId : 282128 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+43. DocId : 284658 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+44. DocId : 285521 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+45. DocId : 292270 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+46. DocId : 293645 | Concept_CD : DXC|REPONSE:80683-80683|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+47. DocId : 307902 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+48. DocId : 319392 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+49. DocId : 327304 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+50. DocId : 331135 | Concept_CD : DXC|REPONSE:80655-80655|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+51. DocId : 341570 | Concept_CD : DXC|REPONSE:81426-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+52. DocId : 343114 | Concept_CD : DXC|REPONSE:109341-109341|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+53. DocId : 347854 | Concept_CD : DXC|REPONSE:106286-106286|46041 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+54. DocId : 351354 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+55. DocId : 358661 | Concept_CD : DXC|REPONSE:89016-89016|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+56. DocId : 365890 | Concept_CD : DXC|QUESTION|AUTRE:3820 | NAME_CHAR : 081 - Anticoagulants ?
+57. DocId : 368369 | Concept_CD : DXC|REPONSE:13535-ICD10CHU|T45.5 | NAME_CHAR : Intoxication par anticoagulants
+58. DocId : 371470 | Concept_CD : DXC|REPONSE:8333-ICD10CHU|Y44.2 | NAME_CHAR : Effet indésirable : Anticoagulants
+59. DocId : 372153 | Concept_CD : DXC|REPONSE:90546-90546|36682 | NAME_CHAR : Anticoagulants et/ou antiagrégants
+60. DocId : 34154 | Concept_CD : DXC|QUESTION|AUTRE:69827 | NAME_CHAR : 085 - La gestion des anticoagulants
+61. DocId : 63071 | Concept_CD : DXC|REPONSE:74623-74623|35831 | NAME_CHAR : Fibrillation auriculaire contre-indication anticoagulants oraux)
+62. DocId : 149513 | Concept_CD : DXC|REPONSE:118052-118052|596160 | NAME_CHAR : Tryptique d'info sur les anticoagulants
+63. DocId : 282408 | Concept_CD : DXC|QUESTION|AUTRE:70130 | NAME_CHAR : 048 - La gestion des anticoagulants
+64. DocId : 350563 | Concept_CD : DXC|QUESTION|AUTRE:18918 | NAME_CHAR : 014 - Autres traitements anticoagulants
+65. DocId : 14141 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+66. DocId : 14247 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|D68.3 | NAME_CHAR : Troubles hémorragiques dus à des anticoagulants circulants
+67. DocId : 22125 | Concept_CD : DXC|REPONSE:13633-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+68. DocId : 27499 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+69. DocId : 34209 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|D68.3 | NAME_CHAR : Troubles hémorragiques dus à des anticoagulants circulants
+70. DocId : 36382 | Concept_CD : DXC|REPONSE:10370-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+71. DocId : 68941 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|D68.3 | NAME_CHAR : Troubles hémorragiques dus à des anticoagulants circulants
+72. DocId : 95628 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|D68.3 | NAME_CHAR : Troubles hémorragiques dus à des anticoagulants circulants
+73. DocId : 102829 | Concept_CD : DXC|REPONSE:13460-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+74. DocId : 112946 | Concept_CD : DXC|REPONSE:13460-ICD10CHU|D68.3 | NAME_CHAR : Troubles hémorragiques dus à des anticoagulants circulants
+75. DocId : 118822 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+76. DocId : 130464 | Concept_CD : DXC|REPONSE:81426-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+77. DocId : 137146 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|D68.3 | NAME_CHAR : Troubles hémorragiques dus à des anticoagulants circulants
+78. DocId : 141864 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+79. DocId : 150936 | Concept_CD : DXC|REPONSE:9240-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+80. DocId : 162547 | Concept_CD : DXC|QUESTION|BLOB:113873 | NAME_CHAR : 024 - Anticoagulants / troubles de la coagulation
+81. DocId : 180128 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+82. DocId : 181011 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+83. DocId : 182271 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+84. DocId : 210017 | Concept_CD : DXC|REPONSE:8407-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+85. DocId : 217789 | Concept_CD : DXC|REPONSE:8333-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+86. DocId : 219851 | Concept_CD : DXC|QUESTION|AUTRE:186507 | NAME_CHAR : 095 - Chez un patient sous anticoagulants
+87. DocId : 229792 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+88. DocId : 275525 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|D68.3 | NAME_CHAR : Troubles hémorragiques dus à des anticoagulants circulants
+89. DocId : 299454 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+90. DocId : 322763 | Concept_CD : DXC|QUESTION|AUTRE:186510 | NAME_CHAR : 050 - Chez un patient sous anticoagulants
+91. DocId : 337031 | Concept_CD : DXC|REPONSE:13425-ICD10CHU|D68.3 | NAME_CHAR : Troubles hémorragiques dus à des anticoagulants circulants
+92. DocId : 348835 | Concept_CD : DXC|REPONSE:13425-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+93. DocId : 348960 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+94. DocId : 350238 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|D68.3 | NAME_CHAR : Troubles hémorragiques dus à des anticoagulants circulants
+95. DocId : 363428 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+96. DocId : 365254 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|D68.3 | NAME_CHAR : Hémorragie pendant l'utilisation au long cours d'anticoagulants
+97. DocId : 19363 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+98. DocId : 83095 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+99. DocId : 108253 | Concept_CD : DXC|REPONSE:13460-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+100. DocId : 131159 | Concept_CD : DXC|REPONSE:148766-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+101. DocId : 176909 | Concept_CD : DXC|REPONSE:13425-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+102. DocId : 180942 | Concept_CD : DXC|REPONSE:112392-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+103. DocId : 192893 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+104. DocId : 192907 | Concept_CD : DXC|REPONSE:13633-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+105. DocId : 195615 | Concept_CD : DXC|REPONSE:8333-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+106. DocId : 205015 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+107. DocId : 212394 | Concept_CD : DXC|REPONSE:111092-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+108. DocId : 214082 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|X64.9 | NAME_CHAR : Auto-intoxication par Vitamine K, Antagoniste des anticoagulants et autres, lieu SP
+109. DocId : 219300 | Concept_CD : DXC|REPONSE:10370-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+110. DocId : 219889 | Concept_CD : DXC|REPONSE:8224-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+111. DocId : 248427 | Concept_CD : DXC|REPONSE:111093-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+112. DocId : 253990 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+113. DocId : 297383 | Concept_CD : DXC|REPONSE:111086-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+114. DocId : 307184 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+115. DocId : 317372 | Concept_CD : DXC|REPONSE:68233-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+116. DocId : 326319 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+117. DocId : 347343 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+118. DocId : 351493 | Concept_CD : DXC|REPONSE:13642-ICD10CHU|Z92.1 | NAME_CHAR : Antécédents personnels d'utilisation (actuelle) à long terme d'anticoagulants
+119. DocId : 5005 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|X44.9 | NAME_CHAR : Intoxication accidentelle par Vitamine K, Antagoniste des anticoagulants et autres, lieu sans précision
+120. DocId : 18753 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|Y14.9 | NAME_CHAR : Intoxication, intention non déterminée, par Vitamine K, Antagoniste des anticoagulants et autres, lieu sans précision
+121. DocId : 118395 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|X44.9 | NAME_CHAR : Intoxication accidentelle par Vitamine K, Antagoniste des anticoagulants et autres, lieu SP
+122. DocId : 254906 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|X44.9 | NAME_CHAR : Intoxication accidentelle par Vitamine K, Antagoniste des anticoagulants et autres, lieu sans précision
+123. DocId : 265229 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|X44.9 | NAME_CHAR : Intoxication accidentelle par Vitamine K, Antagoniste des anticoagulants et autres, lieu sans précision

@@ -1,0 +1,3 @@
+1. DocId : 23676 | Concept_CD : DXC|QUESTION|BLOB:169966 | NAME_CHAR : 128 - Débit de filtration glomérulaire estimée par la formule CKD-EPI
+2. DocId : 194221 | Concept_CD : DXC|QUESTION|AUTRE:158022 | NAME_CHAR : 044 - Débit de filtration glomérulaire estimé par la formule MDRD 
+3. DocId : 313448 | Concept_CD : DXC|QUESTION|AUTRE:140220 | NAME_CHAR : 085 - Débit de filtration glomérulaire estimé par la formule MDRD 

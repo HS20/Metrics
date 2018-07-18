@@ -1,0 +1,87 @@
+1. DocId : 1 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C47 | NAME_CHAR : Valeur sans Label
+2. DocId : 3 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|E88 | NAME_CHAR : Valeur sans Label
+3. DocId : 5 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C26 | NAME_CHAR : Valeur sans Label
+4. DocId : 6 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C75 | NAME_CHAR : Valeur sans Label
+5. DocId : 7 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C01 | NAME_CHAR : Valeur sans Label
+6. DocId : 9 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D46 | NAME_CHAR : Valeur sans Label
+7. DocId : 15 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C09 | NAME_CHAR : Valeur sans Label
+8. DocId : 20 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C06 | NAME_CHAR : Valeur sans Label
+9. DocId : 21 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C31 | NAME_CHAR : Valeur sans Label
+10. DocId : 22 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D15 | NAME_CHAR : Valeur sans Label
+11. DocId : 26 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D14 | NAME_CHAR : Valeur sans Label
+12. DocId : 27 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C91 | NAME_CHAR : Valeur sans Label
+13. DocId : 29 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D35 | NAME_CHAR : Valeur sans Label
+14. DocId : 31 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C67 | NAME_CHAR : Valeur sans Label
+15. DocId : 32 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D30 | NAME_CHAR : Valeur sans Label
+16. DocId : 37 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C03 | NAME_CHAR : Valeur sans Label
+17. DocId : 38 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D44 | NAME_CHAR : Valeur sans Label
+18. DocId : 39 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D29 | NAME_CHAR : Valeur sans Label
+19. DocId : 40 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D13 | NAME_CHAR : Valeur sans Label
+20. DocId : 43 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C96 | NAME_CHAR : Valeur sans Label
+21. DocId : 48 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C07 | NAME_CHAR : Valeur sans Label
+22. DocId : 52 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D25 | NAME_CHAR : Valeur sans Label
+23. DocId : 54 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D48 | NAME_CHAR : Valeur sans Label
+24. DocId : 56 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|_C50_ | NAME_CHAR : Valeur sans Label
+25. DocId : 57 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D17 | NAME_CHAR : Valeur sans Label
+26. DocId : 58 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D32 | NAME_CHAR : Valeur sans Label
+27. DocId : 62 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C30 | NAME_CHAR : Valeur sans Label
+28. DocId : 63 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C77 | NAME_CHAR : Valeur sans Label
+29. DocId : 64 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C65 | NAME_CHAR : Valeur sans Label
+30. DocId : 66 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C73 | NAME_CHAR : Valeur sans Label
+31. DocId : 67 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D75 | NAME_CHAR : Valeur sans Label
+32. DocId : 69 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D39 | NAME_CHAR : Valeur sans Label
+33. DocId : 73 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D12 | NAME_CHAR : Valeur sans Label
+34. DocId : 75 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C44 | NAME_CHAR : Valeur sans Label
+35. DocId : 76 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C55 | NAME_CHAR : Valeur sans Label
+36. DocId : 80 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C68 | NAME_CHAR : Valeur sans Label
+37. DocId : 85 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C34 | NAME_CHAR : Valeur sans Label
+38. DocId : 87 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C11 | NAME_CHAR : Valeur sans Label
+39. DocId : 90 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D45 | NAME_CHAR : Valeur sans Label
+40. DocId : 99 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C25 | NAME_CHAR : Valeur sans Label
+41. DocId : 104 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C54 | NAME_CHAR : Valeur sans Label
+42. DocId : 106 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C57 | NAME_CHAR : Valeur sans Label
+43. DocId : 107 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C58 | NAME_CHAR : Valeur sans Label
+44. DocId : 110 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C76 | NAME_CHAR : Valeur sans Label
+45. DocId : 112 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C56 | NAME_CHAR : Valeur sans Label
+46. DocId : 113 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C15 | NAME_CHAR : Valeur sans Label
+47. DocId : 114 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C85 | NAME_CHAR : Valeur sans Label
+48. DocId : 119 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D20 | NAME_CHAR : Valeur sans Label
+49. DocId : 120 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C37 | NAME_CHAR : Valeur sans Label
+50. DocId : 123 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C19 | NAME_CHAR : Valeur sans Label
+51. DocId : 125 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C64 | NAME_CHAR : Valeur sans Label
+52. DocId : 132 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C24 | NAME_CHAR : Valeur sans Label
+53. DocId : 159 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D10 | NAME_CHAR : Valeur sans Label
+54. DocId : 162 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C32 | NAME_CHAR : Valeur sans Label
+55. DocId : 165 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C23 | NAME_CHAR : Valeur sans Label
+56. DocId : 166 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C61 | NAME_CHAR : Valeur sans Label
+57. DocId : 167 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C38 | NAME_CHAR : Valeur sans Label
+58. DocId : 168 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C14 | NAME_CHAR : Valeur sans Label
+59. DocId : 169 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C62 | NAME_CHAR : Valeur sans Label
+60. DocId : 170 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D43 | NAME_CHAR : Valeur sans Label
+61. DocId : 171 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D37 | NAME_CHAR : Valeur sans Label
+62. DocId : 177 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C63 | NAME_CHAR : Valeur sans Label
+63. DocId : 178 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C39 | NAME_CHAR : Valeur sans Label
+64. DocId : 179 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D11 | NAME_CHAR : Valeur sans Label
+65. DocId : 190 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C81 | NAME_CHAR : Valeur sans Label
+66. DocId : 193 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C70 | NAME_CHAR : Valeur sans Label
+67. DocId : 194 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C43 | NAME_CHAR : Valeur sans Label
+68. DocId : 198 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|C53 | NAME_CHAR : Valeur sans Label
+69. DocId : 199 | Concept_CD : TK:TK_MALADIE_ICD10-TK_MALADIE_ICD10|D34 | NAME_CHAR : Valeur sans Label
+1. DocId : 192 | Concept_CD : TK:TK_TYPE_CONSENT-TK_TYPE_CONSENT|AUTORISATION__CONSENTEMENT_ETUDE_GENETIQUE_ | NAME_CHAR : AUTORISATION CONSENTEMENT ETUDE GÉNÉTIQUE
+1. DocId : 28506 | Concept_CD : DXC|QUESTION|AUTRE:11474 | NAME_CHAR : 058 - Clairance créatinine (ml/mn)
+2. DocId : 90899 | Concept_CD : DXC|QUESTION|AUTRE:26889 | NAME_CHAR : 184 - Clairance_Créatinine (mL/min)
+3. DocId : 145384 | Concept_CD : DXC|QUESTION|AUTRE:107867 | NAME_CHAR : 045 - Clairance Créatinine (mL/min)
+4. DocId : 185103 | Concept_CD : DXC|QUESTION|AUTRE:144817 | NAME_CHAR : 013 - Clairance créatinine (Cockroft)
+5. DocId : 268332 | Concept_CD : DXC|QUESTION|AUTRE:52145 | NAME_CHAR : 030 - Clairance créatinine (ml/min)
+6. DocId : 278442 | Concept_CD : DXC|QUESTION|AUTRE:158634 | NAME_CHAR : 014 - Clairance Créatinine MDRD
+7. DocId : 343832 | Concept_CD : DXC|QUESTION|AUTRE:4975 | NAME_CHAR : 162 - Clairance créatinine
+8. DocId : 345035 | Concept_CD : DXC|QUESTION|AUTRE:73204 | NAME_CHAR : 169 - Clairance créatinine
+9. DocId : 51903 | Concept_CD : DXC|QUESTION|AUTRE:147059 | NAME_CHAR : 018 - Clairance créatinine CKD-Epi (mL/min/1,73m²)
+10. DocId : 61422 | Concept_CD : DXC|QUESTION|AUTRE:37192 | NAME_CHAR : 010 - Clairance créatinine MDRD (ml/min)
+11. DocId : 138526 | Concept_CD : DXC|QUESTION|AUTRE:110503 | NAME_CHAR : 009 - Clairance créatinine Cockroft (ml/min)
+12. DocId : 160031 | Concept_CD : DXC|QUESTION|AUTRE:145918 | NAME_CHAR : 011 - Clairance créatinine Cockcroft (ml/min)
+13. DocId : 167031 | Concept_CD : DXC|QUESTION|AUTRE:35844 | NAME_CHAR : 009 - Clairance créatinine Cockroft (ml/min)
+14. DocId : 176391 | Concept_CD : DXC|QUESTION|AUTRE:126652 | NAME_CHAR : 107 - Clairance créatinine (ml/min) COCKROFT
+15. DocId : 223318 | Concept_CD : DXC|QUESTION|AUTRE:110504 | NAME_CHAR : 010 - Clairance créatinine MDRD (ml/min)
+16. DocId : 312474 | Concept_CD : DXC|QUESTION|AUTRE:145919 | NAME_CHAR : 012 - Clairance créatinine MDRD (ml/min)
+17. DocId : 358234 | Concept_CD : DXC|QUESTION|AUTRE:183491 | NAME_CHAR : 116 - Clairance créatinine (ml/min) COCKROFT

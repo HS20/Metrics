@@ -1,0 +1,5 @@
+1. DocId : 143160 | Concept_CD : DXC|REPONSE:118065-118065|596195 | NAME_CHAR : Pradaxa
+2. DocId : 302490 | Concept_CD : DXC|REPONSE:68861-68861|33608 | NAME_CHAR : Pradaxa
+3. DocId : 123027 | Concept_CD : SYN|ANA:HPRDX | NAME_CHAR : Dosage Pradaxa
+4. DocId : 33724 | Concept_CD : DXC|REPONSE:135650-135650|602497 | NAME_CHAR : Pradaxa / dabigatran
+5. DocId : 79154 | Concept_CD : SYN|ANA:HXPRX | NAME_CHAR : Activ A-IIa PRADAXA

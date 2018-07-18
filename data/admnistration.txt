@@ -1,0 +1,136 @@
+1. DocId : 72721 | Concept_CD : ADM:administration | NAME_CHAR : Administration
+2. DocId : 15127 | Concept_CD : DXC|REPONSE:62651-62651|11624 | NAME_CHAR : Administration : Conservation
+3. DocId : 46661 | Concept_CD : DXC|REPONSE:13394-13394|11607 | NAME_CHAR : Administration : Conservation
+4. DocId : 105929 | Concept_CD : DXC|REPONSE:147005-147005|606600 | NAME_CHAR : Administration traitement
+5. DocId : 116401 | Concept_CD : DXC|REPONSE:13394-13394|11625 | NAME_CHAR : Administration : Rythme
+6. DocId : 118927 | Concept_CD : DXC|REPONSE:62652-62652|11624 | NAME_CHAR : Administration : Conservation
+7. DocId : 129166 | Concept_CD : DXC|REPONSE:62651-62651|11622 | NAME_CHAR : Administration : Présentation
+8. DocId : 136816 | Concept_CD : DXC|REPONSE:75008-75008|35978 | NAME_CHAR : Administration des Vitamines
+9. DocId : 202041 | Concept_CD : DXC|REPONSE:13394-13394|11624 | NAME_CHAR : Administration : Conservation
+10. DocId : 206517 | Concept_CD : DXC|REPONSE:62652-62652|11622 | NAME_CHAR : Administration : Présentation
+11. DocId : 209218 | Concept_CD : DXC|REPONSE:62651-62651|11625 | NAME_CHAR : Administration : Rythme
+12. DocId : 252870 | Concept_CD : DXC|REPONSE:13394-13394|11605 | NAME_CHAR : Administration : Présentation
+13. DocId : 261592 | Concept_CD : DXC|REPONSE:78626-78626|35978 | NAME_CHAR : Administration des Vitamines
+14. DocId : 277174 | Concept_CD : DXC|REPONSE:169946-169946|596464 | NAME_CHAR : Administration traitement
+15. DocId : 281474 | Concept_CD : DXC|REPONSE:13395-13395|11622 | NAME_CHAR : Administration : Présentation
+16. DocId : 301060 | Concept_CD : DXC|REPONSE:62652-62652|11625 | NAME_CHAR : Administration : Rythme
+17. DocId : 318997 | Concept_CD : DXC|REPONSE:13394-13394|11608 | NAME_CHAR : Administration : Rythme
+18. DocId : 324404 | Concept_CD : DXC|REPONSE:13395-13395|11625 | NAME_CHAR : Administration : Rythme
+19. DocId : 343684 | Concept_CD : DXC|REPONSE:118852-118852|596464 | NAME_CHAR : Administration traitement
+20. DocId : 356745 | Concept_CD : DXC|REPONSE:13394-13394|11622 | NAME_CHAR : Administration : Présentation
+21. DocId : 375906 | Concept_CD : DXC|REPONSE:13395-13395|11624 | NAME_CHAR : Administration : Conservation
+22. DocId : 10471 | Concept_CD : DXC|QUESTION|BLOB:182469 | NAME_CHAR : 005 - Voie d'administration
+23. DocId : 13485 | Concept_CD : DXC|QUESTION|AUTRE:72329 | NAME_CHAR : 008 - Voie d'administration
+24. DocId : 13871 | Concept_CD : DXC|REPONSE:124031-124031|598947 | NAME_CHAR : Optimisation des modalités d'administration
+25. DocId : 23750 | Concept_CD : DXC|QUESTION|AUTRE:36075 | NAME_CHAR : 002 - Modalités d'administration
+26. DocId : 32504 | Concept_CD : DXC|QUESTION|AUTRE:51843 | NAME_CHAR : 001 - Date d'administration
+27. DocId : 34986 | Concept_CD : DXC|QUESTION|AUTRE:82689 | NAME_CHAR : 012 - Administration
+28. DocId : 41328 | Concept_CD : DXC|REPONSE:13394-13394|11623 | NAME_CHAR : Administration : Sites d'injection
+29. DocId : 85040 | Concept_CD : DXC|QUESTION|AUTRE:70524 | NAME_CHAR : 083 - Date d'administration
+30. DocId : 90961 | Concept_CD : DXC|QUESTION|AUTRE:138124 | NAME_CHAR : 002 - Administration ide :
+31. DocId : 113976 | Concept_CD : DXC|REPONSE:62652-62652|11623 | NAME_CHAR : Administration : Sites d'injection
+32. DocId : 117205 | Concept_CD : DXC|REPONSE:62651-62651|11623 | NAME_CHAR : Administration : Sites d'injection
+33. DocId : 127139 | Concept_CD : DXC|QUESTION|AUTRE:124701 | NAME_CHAR : 045 - Voie d'administration
+34. DocId : 128862 | Concept_CD : DXC|QUESTION|BLOB:106823 | NAME_CHAR : 043 - Administration
+35. DocId : 140291 | Concept_CD : DXC|QUESTION|BLOB:106986 | NAME_CHAR : 043 - Administration
+36. DocId : 162472 | Concept_CD : DXC|QUESTION|AUTRE:51871 | NAME_CHAR : 002 - Heure d'administration
+37. DocId : 167844 | Concept_CD : DXC|QUESTION|BLOB:168582 | NAME_CHAR : 040 - Administration
+38. DocId : 192044 | Concept_CD : DXC|QUESTION|BLOB:143793 | NAME_CHAR : 001 - MODALITES D'ADMINISTRATION
+39. DocId : 195959 | Concept_CD : DXC|QUESTION|AUTRE:51808 | NAME_CHAR : 002 - Heure d'administration
+40. DocId : 201372 | Concept_CD : DXC|QUESTION|AUTRE:32088 | NAME_CHAR : 001 - Date d'administration
+41. DocId : 204435 | Concept_CD : DXC|QUESTION|AUTRE:70525 | NAME_CHAR : 084 - Heure d'administration
+42. DocId : 211159 | Concept_CD : DXC|QUESTION|AUTRE:51856 | NAME_CHAR : 001 - Date d'administration
+43. DocId : 223103 | Concept_CD : DXC|QUESTION|AUTRE:51865 | NAME_CHAR : 002 - Heure d'administration
+44. DocId : 227052 | Concept_CD : DXC|QUESTION|AUTRE:51869 | NAME_CHAR : 001 - Date d'administration
+45. DocId : 232920 | Concept_CD : DXC|QUESTION|AUTRE:51853 | NAME_CHAR : 002 - Heure d'administration
+46. DocId : 254192 | Concept_CD : DXC|QUESTION|BLOB:168632 | NAME_CHAR : 040 - Administration
+47. DocId : 268200 | Concept_CD : DXC|QUESTION|AUTRE:51799 | NAME_CHAR : 001 - Date d'administration
+48. DocId : 300225 | Concept_CD : DXC|QUESTION|AUTRE:51858 | NAME_CHAR : 002 - Heure d'administration
+49. DocId : 307091 | Concept_CD : DXC|QUESTION|AUTRE:117697 | NAME_CHAR : 046 - Lieu administration
+50. DocId : 310755 | Concept_CD : DXC|REPONSE:13394-13394|11606 | NAME_CHAR : Administration : Sites d'injection
+51. DocId : 314656 | Concept_CD : DXC|QUESTION|AUTRE:83078 | NAME_CHAR : 012 - Administration
+52. DocId : 349334 | Concept_CD : DXC|REPONSE:13395-13395|11623 | NAME_CHAR : Administration : Sites d'injection
+53. DocId : 368020 | Concept_CD : DXC|QUESTION|AUTRE:51861 | NAME_CHAR : 001 - Date d'administration
+54. DocId : 9481 | Concept_CD : DXC|REPONSE:81426-ICD10CHU|Z29.1 | NAME_CHAR : Administration d'immunoglobuline à visée prophylactique
+55. DocId : 12039 | Concept_CD : DXC|QUESTION|AUTRE:168641 | NAME_CHAR : 000 - Date  avant administration
+56. DocId : 14317 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|Z29.1 | NAME_CHAR : Administration d'immunoglobuline à visée prophylactique
+57. DocId : 26271 | Concept_CD : DXC|QUESTION|AUTRE:174771 | NAME_CHAR : 035 - Administration de stéroïde préopératoire
+58. DocId : 62141 | Concept_CD : DXC|QUESTION|AUTRE:115543 | NAME_CHAR : 062 - Mode d'administration (corticoïdes)
+59. DocId : 73080 | Concept_CD : DXC|QUESTION|AUTRE:130801 | NAME_CHAR : 027 - Pression après administration :
+60. DocId : 73242 | Concept_CD : DXC|QUESTION|AUTRE:168655 | NAME_CHAR : 001 - Horaire pendant administration
+61. DocId : 76973 | Concept_CD : DXC|QUESTION|AUTRE:116076 | NAME_CHAR : 070 - Mode d'administration (méthotrexate)
+62. DocId : 79940 | Concept_CD : DXC|QUESTION|AUTRE:160849 | NAME_CHAR : 004 - Surveillance pendant administration
+63. DocId : 99896 | Concept_CD : DXC|QUESTION|AUTRE:115544 | NAME_CHAR : 065 - Mode d'administration (méthotrexate)
+64. DocId : 102873 | Concept_CD : DXC|QUESTION|AUTRE:171617 | NAME_CHAR : 035 - Administration de stéroïde préopératoire
+65. DocId : 111016 | Concept_CD : DXC|QUESTION|AUTRE:142288 | NAME_CHAR : 024 - Administration de thérapeutiques associées
+66. DocId : 114732 | Concept_CD : DXC|QUESTION|AUTRE:168642 | NAME_CHAR : 000 - Date pendant administration
+67. DocId : 127852 | Concept_CD : DXC|QUESTION|AUTRE:35762 | NAME_CHAR : 103 - Heure administration Clopidogrel
+68. DocId : 160010 | Concept_CD : DXC|REPONSE:8077-ICD10CHU|Z29.1 | NAME_CHAR : Administration d'immunoglobuline à visée prophylactique
+69. DocId : 160622 | Concept_CD : DXC|REPONSE:82668-82668|38558 | NAME_CHAR : Erreur dans la fréquence d'administration
+70. DocId : 167367 | Concept_CD : DXC|QUESTION|AUTRE:35759 | NAME_CHAR : 101 - Date administration Clopidogrel
+71. DocId : 169371 | Concept_CD : DXC|QUESTION|AUTRE:168656 | NAME_CHAR : 001 - Horaire après administration
+72. DocId : 175631 | Concept_CD : DXC|REPONSE:6394-ICD10CHU|Z29.1 | NAME_CHAR : Administration d'immunoglobuline à visée prophylactique
+73. DocId : 182652 | Concept_CD : DXC|QUESTION|AUTRE:116078 | NAME_CHAR : 075 - Mode d'administration (corticoïdes)
+74. DocId : 201874 | Concept_CD : DXC|QUESTION|AUTRE:168643 | NAME_CHAR : 000 - Date après administration
+75. DocId : 219994 | Concept_CD : DXC|QUESTION|AUTRE:122084 | NAME_CHAR : 133 - Mode d'administration (méthotrexate)
+76. DocId : 240886 | Concept_CD : DXC|QUESTION|AUTRE:35757 | NAME_CHAR : 099 - Heure administration aspirine
+77. DocId : 242430 | Concept_CD : DXC|QUESTION|BLOB:106818 | NAME_CHAR : 038 - Administration faite le
+78. DocId : 246071 | Concept_CD : DXC|QUESTION|AUTRE:160850 | NAME_CHAR : 005 - Surveillance après administration
+79. DocId : 248421 | Concept_CD : DXC|QUESTION|AUTRE:130996 | NAME_CHAR : 025 - Pression avant Administration
+80. DocId : 254995 | Concept_CD : DXC|QUESTION|AUTRE:168654 | NAME_CHAR : 001 - horaire avant administration
+81. DocId : 259782 | Concept_CD : DXC|REPONSE:10370-ICD10CHU|Z29.1 | NAME_CHAR : Administration d'immunoglobuline à visée prophylactique
+82. DocId : 271079 | Concept_CD : DXC|QUESTION|AUTRE:130997 | NAME_CHAR : 027 - Pression après Administration
+83. DocId : 274360 | Concept_CD : DXC|REPONSE:65852-65852|32712 | NAME_CHAR : Erreur dans la voie d'administration
+84. DocId : 289835 | Concept_CD : DXC|REPONSE:148766-ICD10CHU|Z29.1 | NAME_CHAR : Administration d'immunoglobuline à visée prophylactique
+85. DocId : 299301 | Concept_CD : DXC|QUESTION|BLOB:168577 | NAME_CHAR : 035 - Administration faite le
+86. DocId : 302949 | Concept_CD : DXC|QUESTION|AUTRE:130800 | NAME_CHAR : 026 - Pression avant administration :
+87. DocId : 339709 | Concept_CD : DXC|QUESTION|AUTRE:160831 | NAME_CHAR : 003 - Surveillance avant administration
+88. DocId : 342703 | Concept_CD : DXC|QUESTION|AUTRE:122092 | NAME_CHAR : 143 - Mode d'administration (méthotrexate)
+89. DocId : 358043 | Concept_CD : DXC|REPONSE:123931-ICD10CHU|Z29.1 | NAME_CHAR : Administration d'immunoglobuline à visée prophylactique
+90. DocId : 372596 | Concept_CD : DXC|REPONSE:4900-ICD10CHU|Z29.1 | NAME_CHAR : Administration d'immunoglobuline à visée prophylactique
+91. DocId : 373818 | Concept_CD : DXC|QUESTION|AUTRE:35755 | NAME_CHAR : 097 - Date administration aspirine
+92. DocId : 6941 | Concept_CD : DXC|QUESTION|AUTRE:175875 | NAME_CHAR : 073 - Directive sur l'administration des fluides
+93. DocId : 29309 | Concept_CD : DXC|QUESTION|AUTRE:171955 | NAME_CHAR : 128 - Administration d'analgésiques oraux appropriés
+94. DocId : 30393 | Concept_CD : DXC|QUESTION|BLOB:53839 | NAME_CHAR : 010 - Motif de complication ou de non administration
+95. DocId : 36319 | Concept_CD : DXC|QUESTION|AUTRE:35781 | NAME_CHAR : 122 - Contre indication administration rt-PA
+96. DocId : 116460 | Concept_CD : DXC|QUESTION|AUTRE:64079 | NAME_CHAR : 022 - Formation à l'Administration d'EPO
+97. DocId : 131820 | Concept_CD : DXC|QUESTION|AUTRE:177071 | NAME_CHAR : 123 - Administration d'analgésiques oraux appropriés
+98. DocId : 136661 | Concept_CD : DXC|QUESTION|AUTRE:174864 | NAME_CHAR : 128 - Administration d'analgésiques oraux appropriés
+99. DocId : 194781 | Concept_CD : DXC|QUESTION|AUTRE:35763 | NAME_CHAR : 105 - Date administration héparine curative
+100. DocId : 222162 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|Y64.9 | NAME_CHAR : Administration d'une substance médicale ou biologique contaminée SAI
+101. DocId : 253521 | Concept_CD : DXC|QUESTION|AUTRE:171851 | NAME_CHAR : 076 - Directive sur l'administration des fluides
+102. DocId : 261076 | Concept_CD : DXC|QUESTION|AUTRE:35765 | NAME_CHAR : 107 - Heure administration héparine curative
+103. DocId : 293699 | Concept_CD : DXC|REPONSE:161643-161643|609308 | NAME_CHAR : Respect du mode d'administration du traitement
+104. DocId : 327110 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|Y64.9 | NAME_CHAR : Administration d'une substance médicale ou biologique contaminée SAI
+105. DocId : 337478 | Concept_CD : DXC|QUESTION|AUTRE:175927 | NAME_CHAR : 123 - Administration d'analgésiques oraux appropriés
+106. DocId : 361464 | Concept_CD : DXC|QUESTION|AUTRE:177021 | NAME_CHAR : 073 - Directive sur l'administration des fluides
+107. DocId : 364529 | Concept_CD : DXC|QUESTION|AUTRE:174812 | NAME_CHAR : 076 - Directive sur l'administration des fluides
+108. DocId : 21204 | Concept_CD : DXC|QUESTION|AUTRE:88712 | NAME_CHAR : 041 - Patient céphalalgique à l'administration du questionnaire?
+109. DocId : 37234 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|K59.0 | NAME_CHAR : Constipation (banale) (par atonie) (spasmodique) - administration adéquate de médicament
+110. DocId : 52866 | Concept_CD : DXC|QUESTION|BLOB:150231 | NAME_CHAR : 000 - Consignes de prescription et administration du Méthotrexate PO
+111. DocId : 54802 | Concept_CD : DXC|QUESTION|AUTRE:142281 | NAME_CHAR : 015 - Contrôle avant administration et dossier papier
+112. DocId : 55401 | Concept_CD : DXC|QUESTION|BLOB:150357 | NAME_CHAR : 000 - Consignes de prescription et administration du Méthotrexate PO
+113. DocId : 107752 | Concept_CD : DXC|QUESTION|AUTRE:137752 | NAME_CHAR : 000 - Consignes de prescription et administration Méthotrexate per os :
+114. DocId : 110371 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|Y60.7 | NAME_CHAR : Coupure, piqûre, perforation ou hémorragie - administration d'un lavement
+115. DocId : 122529 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|Y63.0 | NAME_CHAR : Administration excessive sang ou autre liquide - transfusion ou perfusion
+116. DocId : 151579 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|K59.0 | NAME_CHAR : Constipation (banale) (par atonie) (spasmodique) - administration adéquate de médicament
+117. DocId : 200086 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|Y64.9 | NAME_CHAR : Administration dune substance médicale ou biologique contaminée SAI
+118. DocId : 233887 | Concept_CD : DXC|REPONSE:25458-ICD10CHU|K59.0 | NAME_CHAR : Constipation (banale) (par atonie) (spasmodique) due à administration adéquate de médicament
+119. DocId : 246795 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|K59.0 | NAME_CHAR : Constipation (banale) (par atonie) (spasmodique) - administration adéquate de médicament
+120. DocId : 254872 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|Y64.8 | NAME_CHAR : Administration par dautres moyens dune substance médicale ou biologique contaminée
+121. DocId : 262574 | Concept_CD : PMSI:DIAGNOSIC-ICD10CHU|Y60.7 | NAME_CHAR : Coupure, piqûre, perforation ou hémorragie - administration dun lavement
+122. DocId : 263758 | Concept_CD : DXC|QUESTION|AUTRE:89121 | NAME_CHAR : 051 - Patient céphalalgique à l'administration du questionnaire?
+123. DocId : 284714 | Concept_CD : DXC|REPONSE:135711-ICD10CHU|K59.0 | NAME_CHAR : Constipation (banale) (par atonie) (spasmodique) - administration adéquate de médicament
+124. DocId : 303906 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|K59.0 | NAME_CHAR : Constipation (banale) (par atonie) (spasmodique) due à administration adéquate de médicament
+125. DocId : 342879 | Concept_CD : DXC|REPONSE:135712-ICD10CHU|Y63.0 | NAME_CHAR : Administration excessive sang ou autre liquide - transfusion ou perfusion
+126. DocId : 349228 | Concept_CD : DXC|REPONSE:21383-ICD10CHU|Y60.7 | NAME_CHAR : Coupure, piqûre, perforation ou hémorragie accidentelles au cours de l'administration d'un lavement
+127. DocId : 359195 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|K59.0 | NAME_CHAR : Constipation (banale) (par atonie) (spasmodique) due à administration adéquate de médicament
+128. DocId : 370535 | Concept_CD : DXC|QUESTION|AUTRE:109421 | NAME_CHAR : 033 - Patient céphalalgique à l'administration du questionnaire?
+129. DocId : 102895 | Concept_CD : DXC|REPONSE:8220-ICD10CHU|Y88.0 | NAME_CHAR : Séquelles de l'administration de médicaments et de substances biologiques ayant provoqué des effets indésirables au cours de leur usage thérapeutique
+130. DocId : 105670 | Concept_CD : DXC|REPONSE:67815-ICD10CHU|Y88.0 | NAME_CHAR : Séquelles de l'administration de médicaments et de substances biologiques ayant provoqué des effets indésirables au cours de leur usage thérapeutique
+131. DocId : 117222 | Concept_CD : DXC|REPONSE:67653-ICD10CHU|Y88.0 | NAME_CHAR : Séquelles de l'administration de médicaments et de substances biologiques ayant provoqué des effets indésirables au cours de leur usage thérapeutique
+132. DocId : 181860 | Concept_CD : DXC|REPONSE:21528-ICD10CHU|Y88.0 | NAME_CHAR : Séquelles de l'administration de médicaments et de substances biologiques ayant provoqué des effets indésirables au cours de leur usage thérapeutique
+133. DocId : 304348 | Concept_CD : DXC|REPONSE:3732-ICD10CHU|Y63.0 | NAME_CHAR : Administration en quantité excessive de sang ou d'un autre liquide au cours d'une transfusion ou perfusion
+134. DocId : 328574 | Concept_CD : DXC|REPONSE:8224-ICD10CHU|Y88.0 | NAME_CHAR : Séquelles de l'administration de médicaments et de substances biologiques ayant provoqué des effets indésirables au cours de leur usage thérapeutique
+135. DocId : 359591 | Concept_CD : DXC|REPONSE:8407-ICD10CHU|Y88.0 | NAME_CHAR : Séquelles de l'administration de médicaments et de substances biologiques ayant provoqué des effets indésirables au cours de leur usage thérapeutique
+136. DocId : 1997 | Concept_CD : DXC|QUESTION|BLOB:60524 | NAME_CHAR : 013 - Traitement (Nom de l'anti infectieux, voie d'administration posologie, si antibiogramme indiquer pour chacun d'eux S, I, R)

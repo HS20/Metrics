@@ -1,0 +1,96 @@
+1. DocId : 27913 | Concept_CD : DXC|REPONSE:144477-144477|605770 | NAME_CHAR : AVK
+2. DocId : 53217 | Concept_CD : DXC|REPONSE:151743-151743|125013 | NAME_CHAR : AVK
+3. DocId : 266750 | Concept_CD : DXC|REPONSE:107806-107806|125013 | NAME_CHAR : AVK
+4. DocId : 353050 | Concept_CD : DXC|REPONSE:68861-68861|30999 | NAME_CHAR : AVK
+5. DocId : 367424 | Concept_CD : SYN|ANA:H9AVK | NAME_CHAR : PHAMACOGENET AVK
+6. DocId : 2060 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+7. DocId : 16400 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+8. DocId : 22318 | Concept_CD : DXC|QUESTION|AUTRE:40130 | NAME_CHAR : 021 - AVK (cp)
+9. DocId : 22363 | Concept_CD : DXC|QUESTION|AUTRE:41814 | NAME_CHAR : 009 - AVK (cp)
+10. DocId : 22665 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+11. DocId : 23423 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+12. DocId : 48150 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+13. DocId : 56462 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+14. DocId : 180035 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+15. DocId : 180719 | Concept_CD : DXC|QUESTION|AUTRE:46635 | NAME_CHAR : 051 - AVK (cp)
+16. DocId : 186803 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+17. DocId : 200189 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+18. DocId : 214554 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+19. DocId : 222156 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+20. DocId : 245951 | Concept_CD : DXC|QUESTION|AUTRE:38616 | NAME_CHAR : 017 - AVK (cp)
+21. DocId : 246706 | Concept_CD : DXC|QUESTION|AUTRE:35788 | NAME_CHAR : 129 - AVK
+22. DocId : 264539 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+23. DocId : 266071 | Concept_CD : DXC|QUESTION|AUTRE:36905 | NAME_CHAR : 160 - AVK
+24. DocId : 292150 | Concept_CD : DXC|REPONSE:136186-136186|602848 | NAME_CHAR : Si AVK , IRN
+25. DocId : 366933 | Concept_CD : DXC|QUESTION|AUTRE:134690 | NAME_CHAR : 035 - AVK (cp)
+26. DocId : 37760 | Concept_CD : DXC|QUESTION|AUTRE:3790 | NAME_CHAR : 082 - Si prise d'AVK :
+27. DocId : 152650 | Concept_CD : DXC|QUESTION|AUTRE:73124 | NAME_CHAR : 089 - Si prise d'AVK :
+28. DocId : 196637 | Concept_CD : DXC|QUESTION|AUTRE:35789 | NAME_CHAR : 130 - Date début AVK
+29. DocId : 118445 | Concept_CD : DXC|REPONSE:11644-11644|9759 | NAME_CHAR : Avoir toujours sur soi le carnet de suivi du TTT AVK
+30. DocId : 242041 | Concept_CD : DXC|REPONSE:11646-11646|9770 | NAME_CHAR : Ne pas doubler la dose d'AVK si oubli la veille
+31. DocId : 276267 | Concept_CD : DXC|REPONSE:11644-11644|9765 | NAME_CHAR : Informer tout professionnel de santé que vous êtes sous AVK
+32. DocId : 372256 | Concept_CD : DXC|REPONSE:11644-11644|9768 | NAME_CHAR : Prévoir les doses d'AVK suffisantes en cas d'absence / voyage
+1. DocId : 27913 | Concept_CD : DXC|REPONSE:144477-144477|605770 | NAME_CHAR : AVK
+2. DocId : 53217 | Concept_CD : DXC|REPONSE:151743-151743|125013 | NAME_CHAR : AVK
+3. DocId : 266750 | Concept_CD : DXC|REPONSE:107806-107806|125013 | NAME_CHAR : AVK
+4. DocId : 353050 | Concept_CD : DXC|REPONSE:68861-68861|30999 | NAME_CHAR : AVK
+5. DocId : 367424 | Concept_CD : SYN|ANA:H9AVK | NAME_CHAR : PHAMACOGENET AVK
+6. DocId : 2060 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+7. DocId : 16400 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+8. DocId : 22318 | Concept_CD : DXC|QUESTION|AUTRE:40130 | NAME_CHAR : 021 - AVK (cp)
+9. DocId : 22363 | Concept_CD : DXC|QUESTION|AUTRE:41814 | NAME_CHAR : 009 - AVK (cp)
+10. DocId : 22665 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+11. DocId : 23423 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+12. DocId : 48150 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+13. DocId : 56462 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+14. DocId : 180035 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+15. DocId : 180719 | Concept_CD : DXC|QUESTION|AUTRE:46635 | NAME_CHAR : 051 - AVK (cp)
+16. DocId : 186803 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+17. DocId : 200189 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+18. DocId : 214554 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+19. DocId : 222156 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+20. DocId : 245951 | Concept_CD : DXC|QUESTION|AUTRE:38616 | NAME_CHAR : 017 - AVK (cp)
+21. DocId : 246706 | Concept_CD : DXC|QUESTION|AUTRE:35788 | NAME_CHAR : 129 - AVK
+22. DocId : 264539 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+23. DocId : 266071 | Concept_CD : DXC|QUESTION|AUTRE:36905 | NAME_CHAR : 160 - AVK
+24. DocId : 292150 | Concept_CD : DXC|REPONSE:136186-136186|602848 | NAME_CHAR : Si AVK , IRN
+25. DocId : 366933 | Concept_CD : DXC|QUESTION|AUTRE:134690 | NAME_CHAR : 035 - AVK (cp)
+26. DocId : 37760 | Concept_CD : DXC|QUESTION|AUTRE:3790 | NAME_CHAR : 082 - Si prise d'AVK :
+27. DocId : 152650 | Concept_CD : DXC|QUESTION|AUTRE:73124 | NAME_CHAR : 089 - Si prise d'AVK :
+28. DocId : 196637 | Concept_CD : DXC|QUESTION|AUTRE:35789 | NAME_CHAR : 130 - Date début AVK
+29. DocId : 118445 | Concept_CD : DXC|REPONSE:11644-11644|9759 | NAME_CHAR : Avoir toujours sur soi le carnet de suivi du TTT AVK
+30. DocId : 242041 | Concept_CD : DXC|REPONSE:11646-11646|9770 | NAME_CHAR : Ne pas doubler la dose d'AVK si oubli la veille
+31. DocId : 276267 | Concept_CD : DXC|REPONSE:11644-11644|9765 | NAME_CHAR : Informer tout professionnel de santé que vous êtes sous AVK
+32. DocId : 372256 | Concept_CD : DXC|REPONSE:11644-11644|9768 | NAME_CHAR : Prévoir les doses d'AVK suffisantes en cas d'absence / voyage
+1. DocId : 27913 | Concept_CD : DXC|REPONSE:144477-144477|605770 | NAME_CHAR : AVK
+2. DocId : 53217 | Concept_CD : DXC|REPONSE:151743-151743|125013 | NAME_CHAR : AVK
+3. DocId : 266750 | Concept_CD : DXC|REPONSE:107806-107806|125013 | NAME_CHAR : AVK
+4. DocId : 353050 | Concept_CD : DXC|REPONSE:68861-68861|30999 | NAME_CHAR : AVK
+5. DocId : 367424 | Concept_CD : SYN|ANA:H9AVK | NAME_CHAR : PHAMACOGENET AVK
+6. DocId : 2060 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+7. DocId : 16400 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+8. DocId : 22318 | Concept_CD : DXC|QUESTION|AUTRE:40130 | NAME_CHAR : 021 - AVK (cp)
+9. DocId : 22363 | Concept_CD : DXC|QUESTION|AUTRE:41814 | NAME_CHAR : 009 - AVK (cp)
+10. DocId : 22665 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+11. DocId : 23423 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+12. DocId : 48150 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+13. DocId : 56462 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+14. DocId : 180035 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+15. DocId : 180719 | Concept_CD : DXC|QUESTION|AUTRE:46635 | NAME_CHAR : 051 - AVK (cp)
+16. DocId : 186803 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+17. DocId : 200189 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+18. DocId : 214554 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+19. DocId : 222156 | Concept_CD : SYN|ANA:HRAVK | NAME_CHAR : Ratio TCA AVK
+20. DocId : 245951 | Concept_CD : DXC|QUESTION|AUTRE:38616 | NAME_CHAR : 017 - AVK (cp)
+21. DocId : 246706 | Concept_CD : DXC|QUESTION|AUTRE:35788 | NAME_CHAR : 129 - AVK
+22. DocId : 264539 | Concept_CD : SYN|ANA:HTPA | NAME_CHAR : Taux Prothromb AVK
+23. DocId : 266071 | Concept_CD : DXC|QUESTION|AUTRE:36905 | NAME_CHAR : 160 - AVK
+24. DocId : 292150 | Concept_CD : DXC|REPONSE:136186-136186|602848 | NAME_CHAR : Si AVK , IRN
+25. DocId : 366933 | Concept_CD : DXC|QUESTION|AUTRE:134690 | NAME_CHAR : 035 - AVK (cp)
+26. DocId : 37760 | Concept_CD : DXC|QUESTION|AUTRE:3790 | NAME_CHAR : 082 - Si prise d'AVK :
+27. DocId : 152650 | Concept_CD : DXC|QUESTION|AUTRE:73124 | NAME_CHAR : 089 - Si prise d'AVK :
+28. DocId : 196637 | Concept_CD : DXC|QUESTION|AUTRE:35789 | NAME_CHAR : 130 - Date début AVK
+29. DocId : 118445 | Concept_CD : DXC|REPONSE:11644-11644|9759 | NAME_CHAR : Avoir toujours sur soi le carnet de suivi du TTT AVK
+30. DocId : 242041 | Concept_CD : DXC|REPONSE:11646-11646|9770 | NAME_CHAR : Ne pas doubler la dose d'AVK si oubli la veille
+31. DocId : 276267 | Concept_CD : DXC|REPONSE:11644-11644|9765 | NAME_CHAR : Informer tout professionnel de santé que vous êtes sous AVK
+32. DocId : 372256 | Concept_CD : DXC|REPONSE:11644-11644|9768 | NAME_CHAR : Prévoir les doses d'AVK suffisantes en cas d'absence / voyage
